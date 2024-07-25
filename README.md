@@ -30,7 +30,6 @@ I'm passionate about coding and startups, always looking for opportunities to in
 ## How Could I Add My Value?
 - 📢 **Talks on:** Python,GitHub,Java,C,Hackathons,Open Source.
 - 👯 **Collaborate on Projects:** Related to Machine Learning that adds interesting value and makes a difference to Communities / Startups / Organizations.
-- 🖊 **Open for Opportunities:** On Authoring, Writing, and Reviewing Technical & Non-Technical Content. Strong command of English Writing and Communication Skills.
 
 ## Technical Skills ✔
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
