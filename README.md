@@ -54,8 +54,9 @@ I'm passionate about coding and startups, always looking for opportunities to in
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/dist/github-contribution-grid-snake.svg" />
 </div>
+
 
 ## Contributions Space 🎲
 Here are some of my notable projects:
