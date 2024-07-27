@@ -1,0 +1,23 @@
+name: Generate Snake Contribution Graph
+
+on:
+  schedule: # Runs at 12:00am UTC every day
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Generate Snake Contributions
+        uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Change the output path if needed
+          output: dist/github-contribution-grid-snake.svg
+      - name: Upload Snake Contributions
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-graph
+          path: dist/github-contribution-grid-snake.svg
