@@ -51,6 +51,12 @@ I'm passionate about coding and startups, always looking for opportunities to in
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=Machine%20Learning)
 ![NLP](https://img.shields.io/badge/-NLP-000?&logo=Natural%20Language%20Processing)
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-contribution-grid-snake.svg" />
+</div>
+
 ## Contributions Space 🎲
 Here are some of my notable projects:
 | Project | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 | Participated In |
