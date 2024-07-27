@@ -69,8 +69,10 @@ I'm passionate about coding and startups, always looking for opportunities to in
 </div>
 
 ## Contributions Space 🎲
-Here are some of my notable projects:
-| Project | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 | Participated In |
-| ------- | ------- | ------- | -------- | --------- | ----------- | --------------- |
-| [Emotion-Detection](https://github.com/lechakrawarthy/Emotion-Detection) | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/Emotion-Detection) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/IoT-Spot) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/IoT-Spot) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/IoT-Spot) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/IoT-Spot) | None |
-| [Resume](https://github.com/lechakrawarthy/Resume) | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/Resume) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/Dev-Mint) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/Dev-Mint) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/Dev-Mint) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/Dev-Mint) | None |
+
+Here are some of my notable projects and contributions:
+
+| Project | Description | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 |
+| ------- | ----------- | ------- | ------- | -------- | --------- | ----------- |
+| [My First Python Project](https://github.com/lechakrawarthy/my-first-python-project) | A simple Python project to automate tasks. | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/my-first-python-project) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/my-first-python-project) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/my-first-python-project) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/my-first-python-project) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/my-first-python-project) |
+| [Learning Repository](https://github.com/lechakrawarthy/learning-repo) | Repository for tutorials and exercises from various coding challenges. | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/learning-repo) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/learning-repo) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/learning-repo) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/learning-repo) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/learning-repo) |
