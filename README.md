@@ -20,8 +20,17 @@ I'm passionate about coding and startups, always looking for opportunities to in
 - 🤝 **Collaboration:** Seeking to work with like-minded individuals on impactful projects and startups.
 
 ## Let's Connect
-- 📫 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/lechakrawarthy/)
-- 💬 **Pronouns:** He/Him
+
+  <div align="center"> 
+  <a href="mailto:chakravarthi1597@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/echakrawarthy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://lechakrawarthy.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
 
 ## Fun Fact
 - ⚡ Despite my tech-centric pursuits, I find great joy in music, often merging creativity from both worlds.
@@ -51,12 +60,14 @@ I'm passionate about coding and startups, always looking for opportunities to in
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=Machine%20Learning)
 ![NLP](https://img.shields.io/badge/-NLP-000?&logo=Natural%20Language%20Processing)
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/dist/github-contribution-grid-snake.svg" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&count_private=true&theme=react&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechakrawarthy&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 ## Contributions Space 🎲
 Here are some of my notable projects:
