@@ -43,23 +43,14 @@ I'm passionate about coding and startups, always looking for opportunities to in
 - 📢 **Talks on:** Python, GitHub, Java, C, Hackathons, Open Source.
 - 👯 **Collaborate on Projects:** Related to Machine Learning that adds interesting value and makes a difference to Communities / Startups / Organizations.
 
-## Technical Skills ✔
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual%20Studio%20Code)
-![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
-![Colab](https://img.shields.io/badge/-Colab-000?&logo=Google%20Colab)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![Markdown](https://img.shields.io/badge/-Markdown-000?&logo=Markdown)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-000?&logo=Artificial%20Intelligence)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-000?&logo=Machine%20Learning)
-![NLP](https://img.shields.io/badge/-NLP-000?&logo=Natural%20Language%20Processing)
+<hr/>
+<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,git,python,c,java,blender,notion,powershell,anaconda,pycharm,windows,sketchup,replit,stackoverflow,gmail,markdown,matlab,eclipse,unity,linux" />
+</div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="left">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&count_private=true&theme=react&border_radius=10" alt="streak stats" />
@@ -69,10 +60,8 @@ I'm passionate about coding and startups, always looking for opportunities to in
 </div>
 
 ## Contributions Space 🎲
-
-Here are some of my notable projects and contributions:
-
-| Project | Description | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 |
-| ------- | ----------- | ------- | ------- | -------- | --------- | ----------- |
-| [My First Python Project](https://github.com/lechakrawarthy/my-first-python-project) | A simple Python project to automate tasks. | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/my-first-python-project) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/my-first-python-project) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/my-first-python-project) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/my-first-python-project) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/my-first-python-project) |
-| [Learning Repository](https://github.com/lechakrawarthy/learning-repo) | Repository for tutorials and exercises from various coding challenges. | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/learning-repo) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/learning-repo) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/learning-repo) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/learning-repo) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/learning-repo) |
+Here are some of my notable projects:
+| Project | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 |
+| ------- | ------- | ------- | -------- | --------- | ----------- |
+| [Emotion Detection CNN](https://github.com/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/Emotion_Detection_CNN) |
+| [Resume](https://github.com/lechakrawarthy/Resume) | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/Resume) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/Resume) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/Resume) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/Resume) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/Resume) |
