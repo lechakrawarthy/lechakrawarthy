@@ -3,8 +3,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chakrawarthy!;" alt="Typing SVG" />
 </h1>
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=lechakrawarthy&color=green)
 
 ## About Me
@@ -21,16 +19,17 @@ I'm passionate about coding and startups, always looking for opportunities to in
 
 ## Let's Connect
 
-  <div align="center"> 
+<div align="left">
   <a href="mailto:chakravarthi1597@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/echakrawarthy" target="_blank">
+  <a href="https://linkedin.com/in/lechakrawarthy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://lechakrawarthy.github.io" target="_blank">
+  <a href="https://bento.me/l-e-chakrawarthy-sreenivas-" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
+</div>
 
 ## Fun Fact
 - ⚡ Despite my tech-centric pursuits, I find great joy in music, often merging creativity from both worlds.
@@ -41,7 +40,7 @@ I'm passionate about coding and startups, always looking for opportunities to in
 - 🌍 **Sustainability:** Focusing on creating startups that are not only profitable but also environmentally and socially responsible.
 
 ## How Could I Add My Value?
-- 📢 **Talks on:** Python,GitHub,Java,C,Hackathons,Open Source.
+- 📢 **Talks on:** Python, GitHub, Java, C, Hackathons, Open Source.
 - 👯 **Collaborate on Projects:** Related to Machine Learning that adds interesting value and makes a difference to Communities / Startups / Organizations.
 
 ## Technical Skills ✔
