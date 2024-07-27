@@ -58,7 +58,6 @@ I'm passionate about coding and startups, always looking for opportunities to in
 </div>
 
 
-
 ## Contributions Space 🎲
 Here are some of my notable projects:
 | Project | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 | Participated In |
