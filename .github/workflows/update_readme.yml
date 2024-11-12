@@ -1,0 +1,37 @@
+name: Update README
+
+# This workflow runs daily at midnight and can also be triggered manually
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight
+  workflow_dispatch: # Allows manual runs
+  push:
+    branches:
+      - main # Runs on push to the main branch
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # This uses GitHub's readme-stats-action to update the README stats dynamically
+      - name: Update Notable Projects Section
+        uses: yohann5/github-readme-repo-list-action@v1.1
+        with:
+          username: lechakrawarthy
+          readme_path: README.md
+          repositories: |
+            lechakrawarthy/Emotion_Detection_CNN
+            lechakrawarthy/Resume
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "chakravarthi1597@gmail.com"
+          git config --local user.name "lechakrawarthy"
+          git add README.md
+          git commit -m "Automated README update"
+          git push
