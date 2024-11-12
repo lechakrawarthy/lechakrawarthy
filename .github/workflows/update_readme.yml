@@ -14,15 +14,14 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Update Notable Projects Section
-        uses: lechakrawarthy/github-readme-repo-list-action@v1
+        uses: yihong0618/github-readme-repo-list@v1.1
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           username: lechakrawarthy
           readme_path: README.md
           repositories: |
             lechakrawarthy/Emotion_Detection_CNN
             lechakrawarthy/Resume
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Changes
         run: |
