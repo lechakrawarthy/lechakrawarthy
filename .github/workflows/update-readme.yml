@@ -27,9 +27,9 @@ jobs:
 
             for (const repo of repos) {
               const [owner, repoName] = repo.split('/');
-              const { data } = await github.repos.get({ owner, repo: repoName });
+              const data = await github.rest.repos.get({ owner, repo: repoName });
 
-              table += `| [${data.name}](https://github.com/${data.full_name}) | ![GitHub Stars](https://img.shields.io/github/stars/${data.full_name}) | ![GitHub Forks](https://img.shields.io/github/forks/${data.full_name}) | ![GitHub Issues](https://img.shields.io/github/issues/${data.full_name}) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/${data.full_name}) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/${data.full_name}) |\n`;
+              table += `| [${data.data.name}](https://github.com/${data.data.full_name}) | ![GitHub Stars](https://img.shields.io/github/stars/${data.data.full_name}) | ![GitHub Forks](https://img.shields.io/github/forks/${data.data.full_name}) | ![GitHub Issues](https://img.shields.io/github/issues/${data.data.full_name}) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/${data.data.full_name}) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/${data.data.full_name}) |\n`;
             }
 
             const fs = require('fs');
