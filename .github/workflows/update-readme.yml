@@ -18,7 +18,7 @@ jobs:
         with:
           script: |
             const repos = [
-              "lechakrawarthy/Emotion_Detection_CNN",
+              "lechakrawarthy/nexa",
               "lechakrawarthy/Resume"
             ];
 
