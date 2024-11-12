@@ -26,10 +26,8 @@ jobs:
             table += "| ------- | ------- | ------- | -------- | --------- | ----------- |\n";
 
             for (const repo of repos) {
-              const { data } = await github.repos.get({
-                owner: repo.split('/')[0],
-                repo: repo.split('/')[1]
-              });
+              const [owner, repoName] = repo.split('/');
+              const { data } = await github.repos.get({ owner, repo: repoName });
 
               table += `| [${data.name}](https://github.com/${data.full_name}) | ![GitHub Stars](https://img.shields.io/github/stars/${data.full_name}) | ![GitHub Forks](https://img.shields.io/github/forks/${data.full_name}) | ![GitHub Issues](https://img.shields.io/github/issues/${data.full_name}) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/${data.full_name}) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/${data.full_name}) |\n`;
             }
@@ -41,8 +39,8 @@ jobs:
               `<!-- PROJECTS_TABLE_START -->\n${table}\n<!-- PROJECTS_TABLE_END -->`
             );
             fs.writeFileSync("README.md", readme);
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Changes
         run: |
