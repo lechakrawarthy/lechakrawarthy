@@ -18,20 +18,16 @@ jobs:
         with:
           script: |
             const repos = [
-              "lechakrawarthy/nexa",
-              "lechakrawarthy/Resume"
+              "lechakrawarthy/Emotion_Detection_CNN",
+              "lechakrawarthy/nexa" // Updated repository
             ];
-
             let table = "| Project | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 |\n";
             table += "| ------- | ------- | ------- | -------- | --------- | ----------- |\n";
-
             for (const repo of repos) {
               const [owner, repoName] = repo.split('/');
               const data = await github.rest.repos.get({ owner, repo: repoName });
-
               table += `| [${data.data.name}](https://github.com/${data.data.full_name}) | ![GitHub Stars](https://img.shields.io/github/stars/${data.data.full_name}) | ![GitHub Forks](https://img.shields.io/github/forks/${data.data.full_name}) | ![GitHub Issues](https://img.shields.io/github/issues/${data.data.full_name}) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/${data.data.full_name}) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/${data.data.full_name}) |\n`;
             }
-
             const fs = require('fs');
             let readme = fs.readFileSync("README.md", "utf8");
             readme = readme.replace(
