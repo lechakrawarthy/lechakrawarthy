@@ -23,7 +23,7 @@ jobs:
           username: lechakrawarthy
           readme_path: README.md
           repositories: |
-            lechakrawarthy/Emotion_Detection_CNN
+            lechakrawarthy/lechakrawarthy
             lechakrawarthy/Resume
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
