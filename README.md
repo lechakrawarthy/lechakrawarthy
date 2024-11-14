@@ -50,7 +50,7 @@ Hello! I’m **Chakrawarthy**, a passionate developer with a zest for coding, st
 | Project | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 |
 | ------- | ------- | ------- | -------- | --------- | ----------- |
 | [Emotion_Detection_CNN](https://github.com/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/Emotion_Detection_CNN) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/Emotion_Detection_CNN) |
-| [SolarNexa](https://github.com/lechakrawarthy/nexa) | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/nexa) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/nexa) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/nexa) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/nexa) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/nexa) |
+| [nexa](https://github.com/lechakrawarthy/nexa) | ![GitHub Stars](https://img.shields.io/github/stars/lechakrawarthy/nexa) | ![GitHub Forks](https://img.shields.io/github/forks/lechakrawarthy/nexa) | ![GitHub Issues](https://img.shields.io/github/issues/lechakrawarthy/nexa) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/lechakrawarthy/nexa) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/lechakrawarthy/nexa) |
 
 ---
 
