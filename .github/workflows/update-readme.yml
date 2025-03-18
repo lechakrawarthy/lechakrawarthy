@@ -24,9 +24,13 @@ jobs:
             let table = "| Project | Stars✨ | Forks🍴 | Issues🐛 | Open PRs🔔 | Closed PRs🔥 |\n";
             table += "| ------- | ------- | ------- | -------- | --------- | ----------- |\n";
             for (const repo of repos) {
-              const [owner, repoName] = repo.split('/');
-              const data = await github.rest.repos.get({ owner, repo: repoName });
-              table += `| [${data.data.name}](https://github.com/${data.data.full_name}) | ![GitHub Stars](https://img.shields.io/github/stars/${data.data.full_name}) | ![GitHub Forks](https://img.shields.io/github/forks/${data.data.full_name}) | ![GitHub Issues](https://img.shields.io/github/issues/${data.data.full_name}) | ![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/${data.data.full_name}) | ![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/${data.data.full_name}) |\n`;
+              try {
+                const [owner, repoName] = repo.split('/');
+                const data = await github.rest.repos.get({ owner, repo: repoName });
+                table += `| [${data.data.name}](https://github.com/${data.data.full_name}) | ![GitHub Stars](https://img.shields.io/github/stars/${data.data.full_name}) | ![GitHub Forks](https://img.shields.io/github/forks/${data.data.full_name}) | ${data.data.open_issues_count} | ${data.data.open_issues_count} | ${data.data.closed_issues_count} |\n`;
+              } catch (error) {
+                console.error(`Error fetching data for ${repo}:`, error);
+              }
             }
             const fs = require('fs');
             let readme = fs.readFileSync("README.md", "utf8");
@@ -48,4 +52,3 @@ jobs:
             git push
           else
             echo "No changes to commit"
-          fi
