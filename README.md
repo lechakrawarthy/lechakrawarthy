@@ -79,7 +79,7 @@ Hello! I’m **Chakrawarthy**, a passionate developer with a zest for coding, st
 ---
 
 ### 💡 Talks & Collaborations
-- **📢 Talks on**: Python, GitHub, Java, C, Hackathons, Open Source.
+- **📢 Talks on**: Python, GitHub, Java, C, C++, Hackathons, Open Source.
 - **👯 Open to Collaboration**: Especially in machine learning projects that benefit communities or startups.
 
 ---
