@@ -1,7 +1,7 @@
 <img src="https://camo.githubusercontent.com/615cc0400f9446eb5edcf669b17a67edb8e32aef3336785d0414a74670a03d72/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a323030302f312a2d6e744c33447376632d644a35634c475274537545772e676966" alt="Header" style="width: 100%; height: auto; border-radius: 15px; object-fit: cover; display: block; margin: 0 auto;" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+lechakrawarthy!;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+chakrawarthy!;" alt="Typing SVG" />
 </h1>
 
 <div align="center">
