@@ -16,9 +16,15 @@
 - fintrack — graphql + websockets finance tracker
 - devshop — e-commerce with upi / emi / bnpl
 
-**find me** → [linkedin](https://linkedin.com/in/lechakrawarthy) · [portfolio](https://bento.me/l-e-chakrawarthy-sreenivas-) · [mail](mailto:chakravarthi1597@gmail.com)
+**find me** → [linkedin](https://linkedin.com/in/lechakrawarthy) · [portfolio](https://lechakrawarthy18.vercel.app/) · [mail](mailto:chakravarthi1597@gmail.com)
 
 ---
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&theme=github-dark-blue&hide_border=true&ring=8b8b8b&fire=cccccc&currStreakLabel=8b8b8b&background=0d1117&dates=555555&sideLabels=888888&sideNums=cccccc" />
+
+</div>
 
 <div align="center">
 
