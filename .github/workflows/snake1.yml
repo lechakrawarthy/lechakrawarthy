@@ -26,5 +26,7 @@ jobs:
         with:
           target_branch: output
           build_dir: dist
+          fqdn: false
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
