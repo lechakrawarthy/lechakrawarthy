@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a3a2a,100:238636&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1a14,100:f78166&height=100&section=header"/>
 
 <div align="center">
 
@@ -79,13 +79,13 @@
 
 <br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&icon_color=3fb950&ring_color=238636&include_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&icon_color=f78166&ring_color=c9510c&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechakrawarthy&layout=donut&hide_border=true&bg_color=0d1117&title_color=3fb950&text_color=8b949e&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechakrawarthy&layout=donut&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&theme=github-dark-blue&hide_border=true&ring=3fb950&fire=3fb950&currStreakLabel=3fb950&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=c9d1d9&stroke=238636" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
 
 </div>
 
@@ -99,4 +99,4 @@
 </picture>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:1a3a2a,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f78166,50:2d1a14,100:0d1117&height=100&section=footer"/>
