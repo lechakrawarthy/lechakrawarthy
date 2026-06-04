@@ -1,22 +1,19 @@
 <svg viewBox="0 0 900 30" height="30" width="900" xmlns="http://www.w3.org/2000/svg">
 
   <!-- ground line -->
-  <rect x="0" y="26" width="900" height="1" fill="white" opacity="0.2"/>
+  <rect x="0" y="26" width="900" height="1" fill="white" opacity="0.18"/>
 
   <!--
-    Cactus 1 : begin=0s,  travels 930px in 6s → 155px/s
-    Cactus 2 : begin=-3s (already mid-journey on load), same speed
+    Cactus 1: begin=0s,  930px in 6s = 155px/s, reaches x=130 at t≈5.0s → keyTime 0.833
+    Cactus 2: begin=3s,  same speed, reaches x=130 at t≈8.0s → in dino cycle: 8-6=2.0s → keyTime 0.333
 
-    Cactus 1 reaches x=130 (80px ahead of dino at x=50) at t ≈ 5.0s → keyTime 0.833
-    Cactus 2 reaches x=130 at t ≈ 2.0s after page load   → keyTime 0.333
-
-    Dino jump arc (each): start → peak (−16px) → land, over 0.3s each way
-    Jump 1 keyTimes: 0.333 → 0.383 → 0.433
-    Jump 2 keyTimes: 0.833 → 0.883 → 0.933
+    Dino jump arc uses additive="sum" on top of static translate(50,0):
+    Jump 1 at keyTime 0.333 (peak 0.383, land 0.433)
+    Jump 2 at keyTime 0.833 (peak 0.883, land 0.933)
   -->
 
-  <!-- dino — white, fixed x=50 via animateTransform -->
-  <g fill="white">
+  <!-- dino: static x=50, jump handled additively -->
+  <g transform="translate(50,0)" fill="white">
     <rect x="0"  y="16" width="5"  height="4"/>
     <rect x="4"  y="10" width="14" height="12"/>
     <rect x="10" y="7"  width="4"  height="5"/>
@@ -24,30 +21,30 @@
     <rect x="14" y="6"  width="2"  height="2" fill="black" fill-opacity="0.45"/>
     <rect x="11" y="17" width="4"  height="2"/>
 
-    <!-- run frame A: left down, right raised -->
+    <!-- run frame A: left leg down, right raised -->
     <g>
       <rect x="6"  y="22" width="3" height="5"/>
       <rect x="11" y="22" width="3" height="2"/>
       <animate attributeName="opacity" values="1;0" dur="0.25s" calcMode="discrete" repeatCount="indefinite"/>
     </g>
-    <!-- run frame B: left raised, right down -->
+    <!-- run frame B: left raised, right leg down -->
     <g>
       <rect x="6"  y="22" width="3" height="2"/>
       <rect x="11" y="22" width="3" height="5"/>
       <animate attributeName="opacity" values="0;1" dur="0.25s" calcMode="discrete" repeatCount="indefinite"/>
     </g>
 
-    <!-- jump: two arcs per 6s cycle, synced with the two cacti -->
+    <!-- jump: Y-only offset added to the static translate(50,0) -->
     <animateTransform attributeName="transform" type="translate"
-      values="50,0; 50,0; 50,-16; 50,0; 50,0; 50,-16; 50,0; 50,0"
+      values="0,0; 0,0; 0,-16; 0,0; 0,0; 0,-16; 0,0; 0,0"
       keyTimes="0; 0.333; 0.383; 0.433; 0.833; 0.883; 0.933; 1"
-      calcMode="spline"
-      keySplines="0 0 1 1; 0.2 0 0.8 1; 0.2 0 0.8 1; 0 0 1 1; 0.2 0 0.8 1; 0.2 0 0.8 1; 0 0 1 1"
+      calcMode="linear"
       dur="6s"
+      additive="sum"
       repeatCount="indefinite"/>
   </g>
 
-  <!-- cactus 1 — starts off-screen right, arrives on time -->
+  <!-- cactus 1: starts immediately -->
   <g fill="white" opacity="0.6">
     <rect x="905" y="13" width="4" height="14"/>
     <rect x="901" y="17" width="4" height="5"/>
@@ -56,13 +53,13 @@
       from="0,0" to="-930,0" dur="6s" begin="0s" repeatCount="indefinite"/>
   </g>
 
-  <!-- cactus 2 — negative begin so it's already mid-journey on page load -->
+  <!-- cactus 2: starts 3s later, creating alternating arrivals -->
   <g fill="white" opacity="0.6">
     <rect x="905" y="16" width="3" height="11"/>
     <rect x="902" y="18" width="3" height="5"/>
     <rect x="908" y="19" width="3" height="4"/>
     <animateTransform attributeName="transform" type="translate"
-      from="0,0" to="-930,0" dur="6s" begin="-3s" repeatCount="indefinite"/>
+      from="0,0" to="-930,0" dur="6s" begin="3s" repeatCount="indefinite"/>
   </g>
 
 </svg>

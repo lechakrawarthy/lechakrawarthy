@@ -19,13 +19,15 @@
 
 </div>
 
+<img width="100%" src="./Assets/divider-dino.svg"/>
+
 <br/>
 
 > **most of what i build runs on a server. some of it runs on a street.**
 >
 > i'm a full-stack engineer and founder who ships real software — a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
 
-<img width="100%" src="./Assets/divider-line.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; now</h3>
 
@@ -39,7 +41,7 @@
 - 💼 **swe intern, 99 yards** — new york (remote) · fashion-tech platform · design sprints · mobile prototypes
 - 👥 **president, [github community gitam](https://github.com/GitHub-Community-GITAM)** — 28-member team · epoch tech fest · 5000+ attendees · best technical club award
 
-<img width="100%" src="./Assets/divider-line.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" align="center"/>&nbsp; shipped</h3>
 
@@ -97,7 +99,7 @@
 </tr>
 </table>
 
-<img width="100%" src="./Assets/divider-line.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg"/>
 
 <h3>🏆&nbsp; achievements</h3>
 
@@ -105,7 +107,7 @@
 - 💎 **smart india hackathon 2024** — top 35 team · *mula* blockchain project
 - ⭐ **best technical club award** — github community gitam
 
-<img width="100%" src="./Assets/divider-line.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg"/>
 
 <h3><img src="./Assets/skills.gif" width="22" align="center"/>&nbsp; stack</h3>
 
@@ -168,11 +170,21 @@
 
 <br/>
 
-<img width="100%" src="./Assets/divider-dino-end.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg"/>
 
 <br/>
 
 > **if you've read this far — let's build something that matters.**
+
+<br/>
+
+<div align="center">
+
+*"After all this time?"*
+
+*"Always."*
+
+</div>
 
 <br/>
 
