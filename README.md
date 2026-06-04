@@ -1,102 +1,143 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1a14,100:f78166&height=100&section=header"/>
-
 <div align="center">
 
-<h2>hey, i'm chakrawarthy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /></h2>
+<img src="./assets/banner.png" width="100%" alt="L E Chakrawarthy — Software Engineer · Founder"/>
 
-**founder · engineer · community builder · hyderabad × bengaluru**
+<br/><br/>
 
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lechakrawarthy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lechakrawarthy18.vercel.app/)
-[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~lechakrawarthy)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chakravarthi1597@gmail.com)
+<a href="https://linkedin.com/in/lechakrawarthy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://lechakrawarthy18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="https://www.npmjs.com/~lechakrawarthy"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp;
+<a href="mailto:chakravarthi1597@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" align="center" />&nbsp;now</h3>
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="18" align="center" /> **founder, [solarnexa](https://solarnexa.com)** — modular solar trees with integrated ev charging for urban india · cleantech · est. 2023
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="18" align="center" /> **president, [github community gitam](https://github.com/GitHub-Community-GITAM)** — 28-member team · epoch tech fest · 5000+ attendees · best technical club award
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="18" align="center" /> **ai fellow, [admesh](https://admesh.co)** — building adplex, an ai-native ad decision engine · prompt architecture · product audits
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="18" align="center" /> **swe intern, 99 yards** — new york (remote) · fashion-tech platform · design sprints · mobile prototypes
+> **Most of what I build runs on a server. Some of it runs on a street.**
+>
+> Full-stack engineer and founder. I ship production software and a published developer tool — and I build the systems behind modular solar infrastructure for urban India.
 
 <br/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28" align="center" />&nbsp;shipped</h3>
+## Now
+
+**SolarNexa** — Founder. Modular solar trees with integrated EV charging for urban India. Leading product and engineering.
+
+**AdMesh** — AI Fellow. Building *Adplex*, an AI-native ad decision engine — prompt architecture and product systems.
+
+## Previously
+
+**GitHub Community GITAM** — President. Led a 28-member team and ran *Epoch* Tech Fest for 5,000+ attendees. Took the community to a Best Technical Club award.
+
+**99 Yards** *(New York · Remote)* — Software Engineer Intern. Shipped mobile prototypes and ran design-sprint reviews for a fashion-tech platform.
+
+<br/>
+
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="16" align="center" /> **[vazr](https://github.com/lechakrawarthy/vazr)** — cli disk cleanup · [`@lechakrawarthy/vazr`](https://www.npmjs.com/package/@lechakrawarthy/vazr)
+**[vazr](https://www.npmjs.com/package/@lechakrawarthy/vazr)**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="16" align="center" /> **ddos detection** — lstm classifier · **99.73% acc** · mcc 0.9958
+Cross-platform disk-cleanup CLI — independently published and in active use.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="16" align="center" /> **traffic severity** — ml pipeline on uk stats19 · ieee → icac2n
+<a href="https://www.npmjs.com/package/@lechakrawarthy/vazr"><img src="https://img.shields.io/npm/v/@lechakrawarthy/vazr?style=flat-square&color=f78166&logo=npm&logoColor=white&label=npm"/></a>
+<img src="https://img.shields.io/npm/dt/@lechakrawarthy/vazr?style=flat-square&color=2d333b&label=downloads"/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ticket.png" width="16" align="center" /> **epoch platform** — 278+ teams · 1600+ participants · next.js/supabase
+<sub>`Node.js`&nbsp;·&nbsp;`CLI`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="16" align="center" /> **[nexa](https://github.com/lechakrawarthy/nexa)** — blockchain platform · learning funds tree planting
+**DDoS Detection**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" width="16" align="center" /> **[emotion cnn](https://github.com/lechakrawarthy/Emotion_Detection_CNN)** — real-time facial emotion classifier
+LSTM model for network-threat detection. **99.73%** accuracy, **0.9958** MCC on benchmark traffic.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="16" align="center" /> **fintrack** — graphql + websockets · node.js/postgresql
+<sub>`TensorFlow`&nbsp;·&nbsp;`Deep Learning`</sub>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" width="16" align="center" /> **devshop** — e-commerce · upi / emi / bnpl · react/tailwindcss
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Epoch Platform**
+
+Full-stack hackathon operations — QR issue submission, live dashboards, role-based auth. Ran for **278+ teams**.
+
+<sub>`Next.js`&nbsp;·&nbsp;`Supabase`&nbsp;·&nbsp;`JWT`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**Twinance**
+
+Personal-finance platform with analytics dashboards, realtime sync, and JWT-secured REST APIs.
+
+<sub>`React`&nbsp;·&nbsp;`Node`&nbsp;·&nbsp;`PostgreSQL`</sub>
 
 </td>
 </tr>
 </table>
 
+<sub>→ more at **[github.com/lechakrawarthy](https://github.com/lechakrawarthy)**</sub>
+
 <br/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" align="center" />&nbsp;stack</h3>
+## Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,nodejs,express,fastapi,graphql,python,tensorflow,sklearn,opencv,postgresql,mongodb,supabase,docker,aws,gcp,git,linux" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,tensorflow,postgresql,mongodb,docker,aws,git&theme=dark&perline=12"/>
 
 <br/><br/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" align="center" />&nbsp;github stats</h3>
+## GitHub
 
+<!-- Metrics infographic — generated daily by .github/workflows/metrics.yml -->
 <div align="center">
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lechakrawarthy&theme=github_dark" width="100%"/>
-
-<br/>
-
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lechakrawarthy&theme=github_dark"/>
-&nbsp;
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lechakrawarthy&theme=github_dark"/>
-&nbsp;
-<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lechakrawarthy&theme=github_dark"/>
-
-<br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&icon_color=f78166&ring_color=c9510c&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechakrawarthy&layout=donut&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&langs_count=8"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
+<img src="./github-metrics.svg" width="100%" alt="GitHub metrics"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-snake-dark.svg"/>
-</picture>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&icon_color=f78166&ring_color=f78166&include_all_commits=true&count_private=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=lechakrawarthy&hide_border=true&background=0d1117&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=21262d"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lechakrawarthy&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lechakrawarthy&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lechakrawarthy&theme=github_dark&utcOffset=5.5"/>
+
+<br/><br/>
+
+<!-- Lines-of-code by language — sign in at githubtrends.io to get your embed id -->
+<img src="https://api.githubtrends.io/user/svg/lechakrawarthy/langs?time_range=one_year&include_private=False&loc_metric=changed&compact=True&theme=dark" width="49%" alt="LOC by language"/>
+<img src="https://api.githubtrends.io/user/svg/lechakrawarthy/repos?time_range=one_year&include_private=False&loc_metric=changed&compact=True&theme=dark" width="49%" alt="LOC by repo"/>
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f78166,50:2d1a14,100:0d1117&height=100&section=footer"/>
+<br/>
+
+### Weekly coding breakdown
+
+<!--START_SECTION:waka-->
+<!-- Auto-filled by .github/workflows/waka-readme.yml once WakaTime has data -->
+<!--END_SECTION:waka-->
+
+<br/>
+
+---
+
+<div align="center">
+
+Looking for software engineering internships — and good problems to work on.
+
+<a href="https://linkedin.com/in/lechakrawarthy"><img src="https://img.shields.io/badge/Reach_out-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:chakravarthi1597@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+</div>
