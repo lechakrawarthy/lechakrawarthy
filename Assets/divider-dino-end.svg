@@ -1,0 +1,29 @@
+<svg viewBox="0 0 900 30" height="30" width="900" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- full-width ground line -->
+  <rect x="0" y="26" width="900" height="1" fill="white" opacity="0.18"/>
+
+  <!-- dino parked at the right end, running in place, facing right -->
+  <g transform="translate(856,0)" fill="white">
+    <rect x="0"  y="16" width="5"  height="4"/>
+    <rect x="4"  y="10" width="14" height="12"/>
+    <rect x="10" y="7"  width="4"  height="5"/>
+    <rect x="9"  y="4"  width="9"  height="7"/>
+    <rect x="14" y="6"  width="2"  height="2" fill="black" fill-opacity="0.45"/>
+    <rect x="11" y="17" width="4"  height="2"/>
+
+    <!-- run frame A: left down, right raised -->
+    <g>
+      <rect x="6"  y="22" width="3" height="5"/>
+      <rect x="11" y="22" width="3" height="2"/>
+      <animate attributeName="opacity" values="1;0" dur="0.25s" calcMode="discrete" repeatCount="indefinite"/>
+    </g>
+    <!-- run frame B: left raised, right down -->
+    <g>
+      <rect x="6"  y="22" width="3" height="2"/>
+      <rect x="11" y="22" width="3" height="5"/>
+      <animate attributeName="opacity" values="0;1" dur="0.25s" calcMode="discrete" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+</svg>

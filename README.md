@@ -25,7 +25,7 @@
 >
 > i'm a full-stack engineer and founder who ships real software — a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
 
-<img width="100%" src="./Assets/divider-dino.svg"/>
+<img width="100%" src="./Assets/divider-line.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; now</h3>
 
@@ -39,7 +39,7 @@
 - 💼 **swe intern, 99 yards** — new york (remote) · fashion-tech platform · design sprints · mobile prototypes
 - 👥 **president, [github community gitam](https://github.com/GitHub-Community-GITAM)** — 28-member team · epoch tech fest · 5000+ attendees · best technical club award
 
-<img width="100%" src="./Assets/divider-dino.svg"/>
+<img width="100%" src="./Assets/divider-line.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" align="center"/>&nbsp; shipped</h3>
 
@@ -97,7 +97,7 @@
 </tr>
 </table>
 
-<img width="100%" src="./Assets/divider-dino.svg"/>
+<img width="100%" src="./Assets/divider-line.svg"/>
 
 <h3>🏆&nbsp; achievements</h3>
 
@@ -105,7 +105,7 @@
 - 💎 **smart india hackathon 2024** — top 35 team · *mula* blockchain project
 - ⭐ **best technical club award** — github community gitam
 
-<img width="100%" src="./Assets/divider-dino.svg"/>
+<img width="100%" src="./Assets/divider-line.svg"/>
 
 <h3><img src="./Assets/skills.gif" width="22" align="center"/>&nbsp; stack</h3>
 
@@ -137,9 +137,6 @@
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
-
-*tracking active — stats appear after a few days of coding with the WakaTime extension*
-
 <!--END_SECTION:waka-->
 
 <br/>
@@ -152,11 +149,11 @@
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lechakrawarthy&bg_color=0d1117&color=f78166&line=f78166&point=ffffff&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lechakrawarthy&bg_color=0d1117&color=f78166&line=f78166&point=ffffff&area=true&hide_border=true&height=220" width="85%"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/github-metrics.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/github-metrics.svg" width="75%"/>
 
 
 <br/><br/>
@@ -171,28 +168,7 @@
 
 <br/>
 
-<details>
-<summary><sub>divider options — pick one, rest get removed</sub></summary>
-
-<br/>
-
-<sub>A &nbsp;·&nbsp; comet — orange streak shoots across</sub>
-
-<img width="100%" src="./Assets/divider-comet.svg"/>
-
-<sub>B &nbsp;·&nbsp; pulse — gradient center breathes in and out</sub>
-
-<img width="100%" src="./Assets/divider-pulse.svg"/>
-
-<sub>C &nbsp;·&nbsp; scan — thin line sweeps left to right</sub>
-
-<img width="100%" src="./Assets/divider-scan.svg"/>
-
-<sub>D &nbsp;·&nbsp; dino — chrome dino runs, cacti scroll past (current)</sub>
-
-<img width="100%" src="./Assets/divider-dino.svg"/>
-
-</details>
+<img width="100%" src="./Assets/divider-dino-end.svg"/>
 
 <br/>
 
