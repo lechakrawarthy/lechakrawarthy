@@ -1,81 +1,99 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:2d1a14,100:f78166&height=100&section=header"/>
+
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="L E Chakrawarthy — Software Engineer · Founder"/>
+<h2>hey, i'm chakrawarthy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" /></h2>
 
-<br/><br/>
+**founder · engineer · community builder · hyderabad × bengaluru**
 
-<a href="https://linkedin.com/in/lechakrawarthy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://lechakrawarthy18.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
-<a href="https://www.npmjs.com/~lechakrawarthy"><img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>&nbsp;
-<a href="mailto:chakravarthi1597@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lechakrawarthy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lechakrawarthy18.vercel.app/)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~lechakrawarthy)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chakravarthi1597@gmail.com)
 
 </div>
 
 <br/>
 
-> **Most of what I build runs on a server. Some of it runs on a street.**
+> **most of what i build runs on a server. some of it runs on a street.**
 >
-> Full-stack engineer and founder. I ship production software and a published developer tool — and I build the systems behind modular solar infrastructure for urban India.
+> i'm a full-stack engineer and founder who ships real software — a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
 
 <br/>
 
-## Now
-
-**SolarNexa** — Founder. Modular solar trees with integrated EV charging for urban India. Leading product and engineering.
-
-**AdMesh** — AI Fellow. Building *Adplex*, an AI-native ad decision engine — prompt architecture and product systems.
-
-## Previously
-
-**GitHub Community GITAM** — President. Led a 28-member team and ran *Epoch* Tech Fest for 5,000+ attendees. Took the community to a Best Technical Club award.
-
-**99 Yards** *(New York · Remote)* — Software Engineer Intern. Shipped mobile prototypes and ran design-sprint reviews for a fashion-tech platform.
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 <br/>
 
-## Selected work
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" align="center" />&nbsp;now</h3>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="18" align="center" /> **founder, [solarnexa](https://solarnexa.vercel.app)** — building solar-powered urban infrastructure for india · cleantech · est. 2023
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Busts%20in%20Silhouette.png" width="18" align="center" /> **president, [github community gitam](https://github.com/GitHub-Community-GITAM)** — 28-member team · epoch tech fest · 5000+ attendees · best technical club award
+
+<br/>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="28" align="center" />&nbsp;previously</h3>
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="18" align="center" /> **ai fellow, [admesh](https://admesh.co)** — built adplex, an ai-native ad decision engine · prompt architecture · product systems · remote
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="18" align="center" /> **swe intern, 99 yards** — new york (remote) · fashion-tech platform · design sprints · mobile prototypes
+
+<br/>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="28" align="center" />&nbsp;shipped</h3>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[vazr](https://www.npmjs.com/package/@lechakrawarthy/vazr)**
-
-Cross-platform disk-cleanup CLI — independently published and in active use.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="16" align="center" /> **[vazr](https://github.com/lechakrawarthy/vazr)** — cli disk cleanup · [`@lechakrawarthy/vazr`](https://www.npmjs.com/package/@lechakrawarthy/vazr)
 
 <a href="https://www.npmjs.com/package/@lechakrawarthy/vazr"><img src="https://img.shields.io/npm/v/@lechakrawarthy/vazr?style=flat-square&color=f78166&logo=npm&logoColor=white&label=npm"/></a>
 <img src="https://img.shields.io/npm/dt/@lechakrawarthy/vazr?style=flat-square&color=2d333b&label=downloads"/>
 
-<sub>`Node.js`&nbsp;·&nbsp;`CLI`</sub>
+<sub>`Node.js` · `CLI`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**DDoS Detection**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="16" align="center" /> **ddos detection** — lstm classifier · **99.73% acc** · mcc 0.9958
 
-LSTM model for network-threat detection. **99.73%** accuracy, **0.9958** MCC on benchmark traffic.
-
-<sub>`TensorFlow`&nbsp;·&nbsp;`Deep Learning`</sub>
+<sub>`TensorFlow` · `Deep Learning`</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**Epoch Platform**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ticket.png" width="16" align="center" /> **[hackathon issue management platform](https://sihsupport.vercel.app)** — built for epoch 4.0 · qr-based issue submission · live dashboards · role-based auth · **278+ teams, 1600+ participants**
 
-Full-stack hackathon operations — QR issue submission, live dashboards, role-based auth. Ran for **278+ teams**.
-
-<sub>`Next.js`&nbsp;·&nbsp;`Supabase`&nbsp;·&nbsp;`JWT`</sub>
+<sub>`Next.js` · `Supabase` · `JWT`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**Twinance**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Money%20Bag.png" width="16" align="center" /> **[twinance](https://twinance.vercel.app)** — personal finance platform · analytics dashboards · realtime sync · jwt rest apis
 
-Personal-finance platform with analytics dashboards, realtime sync, and JWT-secured REST APIs.
+<sub>`React` · `Node.js` · `PostgreSQL`</sub>
 
-<sub>`React`&nbsp;·&nbsp;`Node`&nbsp;·&nbsp;`PostgreSQL`</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" width="16" align="center" /> **coinnect** — gamified blockchain lms · real-time crypto simulator · green coin rewards
+
+<sub>`Next.js` · `MongoDB` · `NextAuth.js`</sub>
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="16" align="center" /> **traffic severity** — ml pipeline on uk stats19 · ieee → icac2n
+
+<sub>`Python` · `scikit-learn`</sub>
 
 </td>
 </tr>
@@ -85,59 +103,66 @@ Personal-finance platform with analytics dashboards, realtime sync, and JWT-secu
 
 <br/>
 
-## Stack
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Trophy.png" width="28" align="center" />&nbsp;achievements</h3>
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,python,tensorflow,postgresql,mongodb,docker,aws,git&theme=dark&perline=12"/>
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="18" align="center" /> **cognizant technoverse 2026** — top 1,000 nationally · 4,000+ teams · 400+ colleges · only team from gitam shortlisted
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="18" align="center" /> **smart india hackathon 2024** — top 35 team · *mula* blockchain project
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" width="18" align="center" /> **best technical club award** — github community gitam
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+<br/>
+
+<h3><img src="./assets/skills.gif" width="28" align="center" />&nbsp;stack</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,fastapi,graphql,python,tensorflow,sklearn,opencv,pytorch,postgresql,mongodb,supabase,prisma,redis,docker,kubernetes,aws,gcp,git,github,linux,vscode,postman,figma" />
 
 <br/><br/>
 
-## GitHub
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" width="400">
+</div>
 
-<!-- Metrics infographic — generated daily by .github/workflows/metrics.yml -->
+<br/>
+
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="28" align="center" />&nbsp;github stats</h3>
+
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%" alt="GitHub metrics"/>
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lechakrawarthy&theme=github_dark" width="100%"/>
+
+<br/>
+
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lechakrawarthy&theme=github_dark"/>
+&nbsp;
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lechakrawarthy&theme=github_dark"/>
+&nbsp;
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lechakrawarthy&theme=github_dark"/>
+
+<br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&icon_color=f78166&ring_color=c9510c&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechakrawarthy&layout=donut&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&icon_color=f78166&ring_color=f78166&include_all_commits=true&count_private=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=lechakrawarthy&hide_border=true&background=0d1117&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=21262d"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lechakrawarthy&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lechakrawarthy&theme=github_dark"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lechakrawarthy&theme=github_dark&utcOffset=5.5"/>
-
-<br/><br/>
-
-<!-- Lines-of-code by language — sign in at githubtrends.io to get your embed id -->
-<img src="https://api.githubtrends.io/user/svg/lechakrawarthy/langs?time_range=one_year&include_private=False&loc_metric=changed&compact=True&theme=dark" width="49%" alt="LOC by language"/>
-<img src="https://api.githubtrends.io/user/svg/lechakrawarthy/repos?time_range=one_year&include_private=False&loc_metric=changed&compact=True&theme=dark" width="49%" alt="LOC by repo"/>
-
-</div>
-
-<br/>
-
-### Weekly coding breakdown
-
-<!--START_SECTION:waka-->
-<!-- Auto-filled by .github/workflows/waka-readme.yml once WakaTime has data -->
-<!--END_SECTION:waka-->
-
-<br/>
-
----
-
-<div align="center">
-
-Looking for software engineering internships — and good problems to work on.
-
-<a href="https://linkedin.com/in/lechakrawarthy"><img src="https://img.shields.io/badge/Reach_out-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="mailto:chakravarthi1597@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f78166,50:2d1a14,100:0d1117&height=100&section=footer"/>
