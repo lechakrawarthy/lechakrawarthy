@@ -25,7 +25,7 @@
 >
 > i'm a full-stack engineer and founder who ships real software — a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
+<img width="100%" src="./Assets/divider-dino.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; now</h3>
 
@@ -39,7 +39,7 @@
 - 💼 **swe intern, 99 yards** — new york (remote) · fashion-tech platform · design sprints · mobile prototypes
 - 👥 **president, [github community gitam](https://github.com/GitHub-Community-GITAM)** — 28-member team · epoch tech fest · 5000+ attendees · best technical club award
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
+<img width="100%" src="./Assets/divider-dino.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" align="center"/>&nbsp; shipped</h3>
 
@@ -97,7 +97,7 @@
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
+<img width="100%" src="./Assets/divider-dino.svg"/>
 
 <h3>🏆&nbsp; achievements</h3>
 
@@ -105,7 +105,7 @@
 - 💎 **smart india hackathon 2024** — top 35 team · *mula* blockchain project
 - ⭐ **best technical club award** — github community gitam
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
+<img width="100%" src="./Assets/divider-dino.svg"/>
 
 <h3><img src="./Assets/skills.gif" width="22" align="center"/>&nbsp; stack</h3>
 
@@ -176,25 +176,21 @@
 
 <br/>
 
-<sub>A &nbsp;·&nbsp; animated gradient wave (current — applied everywhere above)</sub>
+<sub>A &nbsp;·&nbsp; comet — orange streak shoots across</sub>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
+<img width="100%" src="./Assets/divider-comet.svg"/>
 
-<sub>B &nbsp;·&nbsp; fire</sub>
+<sub>B &nbsp;·&nbsp; pulse — gradient center breathes in and out</sub>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
+<img width="100%" src="./Assets/divider-pulse.svg"/>
 
-<sub>C &nbsp;·&nbsp; rainbow</sub>
+<sub>C &nbsp;·&nbsp; scan — thin line sweeps left to right</sub>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
+<img width="100%" src="./Assets/divider-scan.svg"/>
 
-<sub>D &nbsp;·&nbsp; solar</sub>
+<sub>D &nbsp;·&nbsp; dino — chrome dino runs, cacti scroll past (current)</sub>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
-
-<sub>E &nbsp;·&nbsp; colored</sub>
-
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
+<img width="100%" src="./Assets/divider-dino.svg"/>
 
 </details>
 
