@@ -1,0 +1,17 @@
+name: User statistician
+on:
+  schedule: [{ cron: "0 3 * * *" }]
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    name: Update user stats SVG
+    permissions:
+      contents: write
+    steps:
+      # Outputs to images/userstats.svg (uses the built-in GITHUB_TOKEN).
+      - uses: cicirello/user-statistician@v1
+        with:
+          colors: dark
+          hide-keys: followers
