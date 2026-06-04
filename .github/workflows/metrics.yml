@@ -32,7 +32,3 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_limit: 8
 
-          # when you actually code
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_days: 14
