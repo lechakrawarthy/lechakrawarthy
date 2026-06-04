@@ -25,7 +25,7 @@
 >
 > i'm a full-stack engineer and founder who ships real software — a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:f78166,100:0d1117&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; now</h3>
 
@@ -39,7 +39,7 @@
 - 💼 **swe intern, 99 yards** — new york (remote) · fashion-tech platform · design sprints · mobile prototypes
 - 👥 **president, [github community gitam](https://github.com/GitHub-Community-GITAM)** — 28-member team · epoch tech fest · 5000+ attendees · best technical club award
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:f78166,100:0d1117&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" align="center"/>&nbsp; shipped</h3>
 
@@ -97,7 +97,7 @@
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:f78166,100:0d1117&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
 
 <h3>🏆&nbsp; achievements</h3>
 
@@ -105,7 +105,7 @@
 - 💎 **smart india hackathon 2024** — top 35 team · *mula* blockchain project
 - ⭐ **best technical club award** — github community gitam
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:f78166,100:0d1117&height=3"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
 
 <h3><img src="./Assets/skills.gif" width="22" align="center"/>&nbsp; stack</h3>
 
@@ -137,6 +137,9 @@
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
+
+*tracking active — stats appear after a few days of coding with the WakaTime extension*
+
 <!--END_SECTION:waka-->
 
 <br/>
@@ -155,11 +158,6 @@
 
 <img src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/github-metrics.svg" width="100%"/>
 
-<br/>
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=lechakrawarthy&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&icon_color=f78166&ring_color=c9510c&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lechakrawarthy&layout=compact&hide_border=true&bg_color=0d1117&title_color=f78166&text_color=8b949e&langs_count=8"/>
 
 <br/><br/>
 
@@ -173,34 +171,37 @@
 
 <br/>
 
-> **if you've read this far — let's build something that matters.**
+<details>
+<summary><sub>divider options — pick one, rest get removed</sub></summary>
 
 <br/>
 
-<div align="center"><sub>① &nbsp; waving</sub></div>
+<sub>A &nbsp;·&nbsp; animated gradient wave (current — applied everywhere above)</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f78166,50:2d1a14,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e7-90b0-b5cf5cec3d86.gif"/>
 
-<div align="center"><sub>② &nbsp; shark</sub></div>
+<sub>B &nbsp;·&nbsp; fire</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0:f78166,50:2d1a14,100:0d1117&height=80&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png"/>
 
-<div align="center"><sub>③ &nbsp; slice</sub></div>
+<sub>C &nbsp;·&nbsp; rainbow</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=0:f78166,50:2d1a14,100:0d1117&height=80&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png"/>
 
-<div align="center"><sub>④ &nbsp; soft</sub></div>
+<sub>D &nbsp;·&nbsp; solar</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:f78166,50:2d1a14,100:0d1117&height=80&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png"/>
 
-<div align="center"><sub>⑤ &nbsp; egg</sub></div>
+<sub>E &nbsp;·&nbsp; colored</sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=egg&color=0:f78166,50:2d1a14,100:0d1117&height=80&section=footer"/>
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-<div align="center"><sub>⑥ &nbsp; thin line</sub></div>
+</details>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:f78166,100:0d1117&height=4"/>
+<br/>
 
-<div align="center"><sub>⑦ &nbsp; banner flipped</sub></div>
+> **if you've read this far — let's build something that matters.**
+
+<br/>
 
 <img src="./Assets/banner-flip.png" width="100%"/>
