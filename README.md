@@ -139,6 +139,38 @@
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.35%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 561 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               45 repos            ████████████░░░░░░░░░░░░░   49.45 % 
+Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
+
+
+ Last Updated on 05/06/2026 04:26:55 UTC
 <!--END_SECTION:waka-->
 
 <br/>
