@@ -104,7 +104,7 @@
 <h3>🏆&nbsp; achievements</h3>
 
 - 🔥 **cognizant technoverse 2026** — top 1,000 nationally · 4,000+ teams · 400+ colleges · only team from gitam shortlisted
-- 💎 **smart india hackathon 2024** — top 35 team · *mula* blockchain project
+- 💎 **smart india hackathon 2025** — top 35 team · *mula* blockchain project
 - ⭐ **best technical club award** — github community gitam
 
 <img width="100%" src="./Assets/divider-orange.svg"/>
