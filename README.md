@@ -139,20 +139,6 @@
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-77.90%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 563 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -183,17 +169,6 @@ Markdown                 3 hrs 36 mins       ██████░░░░░�
 JavaScript               1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 CSS                      54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-
-🔥 Editors: 
-VS Code                  15 hrs 20 mins      ████████████████████████░   96.29 % 
-Claude Code              35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-
-🐱‍💻 Projects: 
-Twinance                 7 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.71 % 
-hackathon-issue-platform 3 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-lechakrawarthy           2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-solarnexa_webapp         1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-vazr-site                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -205,13 +180,6 @@ JavaScript               14 repos            ████░░░░░░░�
 HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
-
 
  Last Updated on 07/06/2026 04:45:44 UTC
 <!--END_SECTION:waka-->
