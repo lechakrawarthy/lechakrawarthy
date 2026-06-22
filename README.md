@@ -178,9 +178,7 @@ Sunday                   1256 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     48 mins             █████████████████████░░░░   83.38 % 
-Image (svg)              7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -200,7 +198,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
 
 
- Last Updated on 21/06/2026 05:02:48 UTC
+ Last Updated on 22/06/2026 05:12:21 UTC
 <!--END_SECTION:waka-->
 
 <br/>
