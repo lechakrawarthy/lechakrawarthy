@@ -139,38 +139,36 @@
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2037%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 594 Contributions in the Year 2026
+> 🏆 600 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1742 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                1785 commits        █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-🌃 Evening                3513 commits        ██████████░░░░░░░░░░░░░░░   41.22 % 
-🌙 Night                  1483 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+🌞 Morning                1742 commits        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+🌆 Daytime                1785 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌃 Evening                3519 commits        ██████████░░░░░░░░░░░░░░░   41.26 % 
+🌙 Night                  1483 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Tuesday                  1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Wednesday                1407 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Thursday                 1075 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Friday                   1282 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Saturday                 690 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Sunday                   1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Monday                   1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Tuesday                  1391 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                1407 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Thursday                 1081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Friday                   1282 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Saturday                 690 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Sunday                   1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
 ```
 
 
@@ -184,11 +182,11 @@ No Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               46 repos            ████████████░░░░░░░░░░░░░   50.00 % 
-Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-JavaScript               13 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-HTML                     5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+TypeScript               46 repos            ████████████░░░░░░░░░░░░░   48.94 % 
+Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
 
@@ -198,7 +196,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 03:32:22 UTC
+ Last Updated on 24/07/2026 03:27:43 UTC
 <!--END_SECTION:waka-->
 
 <br/>
