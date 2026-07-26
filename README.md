@@ -139,6 +139,8 @@
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2055%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -196,7 +198,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:25:13 UTC
+ Last Updated on 26/07/2026 03:39:31 UTC
 <!--END_SECTION:waka-->
 
 <br/>
