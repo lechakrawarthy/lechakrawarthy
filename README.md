@@ -8,6 +8,12 @@
 
 <h2>hey, i'm chakrawarthy &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center"/></h2>
 
+<!--
+Design & layout by @lechakrawarthy
+Reference and inspiration welcome. Direct replication without credit is not.
+Licensed under CC BY-NC-SA 4.0 — see LICENSE
+-->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=F78166&center=true&vCenter=true&width=600&lines=founder+%C2%B7+engineer+%C2%B7+community+builder;building+solar-powered+urban+india+%E2%9A%A1;shipping+real+software%2C+not+portfolios;hyderabad+%C3%97+bengaluru)](https://git.io/typing-svg)
 
 <br/>
@@ -214,9 +220,6 @@ CSS                      2 repos             █░░░░░░░░░░�
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lechakrawarthy&bg_color=0d1117&color=f78166&line=f78166&point=ffffff&area=true&hide_border=true&height=220" width="85%"/>
 
 <br/>
-
-<img src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/github-metrics.svg" width="75%"/>
-
 
 <br/><br/>
 
