@@ -145,6 +145,10 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2052%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -194,11 +198,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               46 repos            ████████████░░░░░░░░░░░░░   48.94 % 
-Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-JavaScript               13 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+TypeScript               46 repos            ████████████░░░░░░░░░░░░░   48.42 % 
+Python                   20 repos            █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+JavaScript               14 repos            ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+HTML                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
 
 
@@ -208,7 +212,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 03:21:39 UTC
+ Last Updated on 30/07/2026 02:54:08 UTC
 <!--END_SECTION:waka-->
 
 <br/>
