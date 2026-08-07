@@ -145,10 +145,6 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2052%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -161,40 +157,6 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1760 commits        █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-🌆 Daytime                1793 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-🌃 Evening                3547 commits        ██████████░░░░░░░░░░░░░░░   41.12 % 
-🌙 Night                  1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.69 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   1424 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Tuesday                  1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Wednesday                1433 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Thursday                 1107 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Friday                   1288 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Saturday                 694 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
-Sunday                   1286 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -212,7 +174,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 03:20:29 UTC
+ Last Updated on 07/08/2026 03:00:36 UTC
 <!--END_SECTION:waka-->
 
 <br/>
