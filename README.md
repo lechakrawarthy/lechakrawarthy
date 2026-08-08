@@ -145,11 +145,15 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2052%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 608 Contributions in the Year 2026
+> 🏆 614 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -157,6 +161,40 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                1771 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌆 Daytime                1809 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌃 Evening                3557 commits        ██████████░░░░░░░░░░░░░░░   41.06 % 
+🌙 Night                  1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.62 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1424 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Tuesday                  1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Wednesday                1445 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Thursday                 1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Friday                   1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Saturday                 709 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Sunday                   1286 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -174,7 +212,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 03:00:36 UTC
+ Last Updated on 08/08/2026 02:05:08 UTC
 <!--END_SECTION:waka-->
 
 <br/>
