@@ -37,7 +37,7 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; now</h3>
 
-- ⚡ **founder, [solarnexa](https://solarnexa.vercel.app)** - building solar-powered urban infrastructure for india · cleantech · est. 2023
+- ⚡ **founder, [solarnexa](https://solarnexa.org)** - building solar-powered urban infrastructure for india · cleantech · est. 2023
 
 <br/>
 
