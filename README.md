@@ -147,15 +147,11 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 ? Used in GitHub's Storage 
- > 
 > 🏆 615 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 0 Private Repositories 
+> 🔑 74 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
