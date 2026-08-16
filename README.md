@@ -31,13 +31,13 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 > **most of what i build runs on a server. some of it runs on a street.**
 >
-> i'm a full-stack engineer and founder who ships real software — a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
+> i'm a full-stack engineer and founder who ships real software - a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
 
 <img width="100%" src="./Assets/divider-orange.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; now</h3>
 
-- ⚡ **founder, [solarnexa](https://solarnexa.vercel.app)** — building solar-powered urban infrastructure for india · cleantech · est. 2023
+- ⚡ **founder, [solarnexa](https://solarnexa.vercel.app)** - building solar-powered urban infrastructure for india · cleantech · est. 2023
 
 <br/>
 
@@ -74,14 +74,14 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <tr>
 <td width="50%" valign="top">
 
-🎫 **[hackathon issue management platform](https://sihsupport.vercel.app)** — built for epoch 4.0 · qr-based issue submission · live dashboards · role-based auth · **278+ teams, 1600+ participants**
+🎫 **[hackathon issue management platform](https://sihsupport.vercel.app)** - built for epoch 4.0 · qr-based issue submission · live dashboards · role-based auth · **278+ teams, 1600+ participants**
 
 <sub>`Next.js` · `Supabase` · `JWT`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-💰 **[twinance](https://twinance.vercel.app)** — personal finance platform · analytics dashboards · realtime sync · jwt rest apis
+💰 **[twinance](https://twinance.vercel.app)** - personal finance platform · analytics dashboards · realtime sync · jwt rest apis
 
 <sub>`React` · `Node.js` · `PostgreSQL`</sub>
 
@@ -90,14 +90,14 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <tr>
 <td width="50%" valign="top">
 
-🔗 **coinnect** — gamified blockchain lms · real-time crypto simulator · green coin rewards
+🔗 **coinnect** - gamified blockchain lms · real-time crypto simulator · green coin rewards
 
 <sub>`Next.js` · `MongoDB` · `NextAuth.js`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-📊 **traffic severity** — ml pipeline on uk stats19 · ieee → icac2n
+📊 **traffic severity** - ml pipeline on uk stats19 · ieee → icac2n
 
 <sub>`Python` · `scikit-learn`</sub>
 
@@ -109,9 +109,9 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 <h3>🏆&nbsp; achievements</h3>
 
-- 🔥 **cognizant technoverse 2026** — top 1,000 nationally · 4,000+ teams · 400+ colleges · only team from gitam shortlisted
-- 💎 **smart india hackathon 2025** — top 35 team · *mula* blockchain project
-- ⭐ **best technical club award** — github community gitam
+- 🔥 **cognizant technoverse 2026** - top 1,000 nationally · 4,000+ teams · 400+ colleges · only team from gitam shortlisted
+- 💎 **smart india hackathon 2025** - top 35 team · *mula* blockchain project
+- ⭐ **best technical club award** - github community gitam
 
 <img width="100%" src="./Assets/divider-orange.svg"/>
 
@@ -142,7 +142,7 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 <br/>
 
-<h3>⌚&nbsp; coding time</h3>
+<h3>⌚&nbsp; Stats</h3>
 
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
@@ -178,7 +178,7 @@ Sunday                   1286 commits        ████░░░░░░░�
 ```
 
 
-**Most of my projects are in TypeScript** 
+**I Work with TypeScript Mostly** 
 
 ```text
 TypeScript               46 repos            ████████████░░░░░░░░░░░░░   48.42 % 
@@ -227,7 +227,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 <br/>
 
-> **if you've read this far — let's build something that matters.**
+> **if you've read this far - let's build something that matters.**
 
 <br/>
 
