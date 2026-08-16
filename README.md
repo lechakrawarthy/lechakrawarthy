@@ -145,10 +145,6 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <h3>⌚&nbsp; coding time</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2052%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
@@ -182,20 +178,7 @@ Sunday                   1286 commits        ████░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in TypeScript** 
+**Most of my projects are in TypeScript** 
 
 ```text
 TypeScript               46 repos            ████████████░░░░░░░░░░░░░   48.42 % 
@@ -204,7 +187,6 @@ JavaScript               14 repos            ████░░░░░░░�
 HTML                     8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
 CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 ```
-
 
 
 **Timeline**
