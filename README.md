@@ -145,36 +145,57 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <h3>⌚&nbsp; Stats</h3>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2040%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%2052%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 🏆 615 Contributions in the Year 2026
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 619 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
  > 
 > 📜 23 Public Repositories 
  > 
-> 🔑 74 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1771 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                1810 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
-🌃 Evening                3557 commits        ██████████░░░░░░░░░░░░░░░   41.05 % 
-🌙 Night                  1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
+🌞 Morning                1771 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+🌆 Daytime                1810 commits        █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+🌃 Evening                3561 commits        ██████████░░░░░░░░░░░░░░░   41.08 % 
+🌙 Night                  1526 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1424 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Tuesday                  1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
-Wednesday                1445 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Thursday                 1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-Friday                   1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Monday                   1424 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Tuesday                  1394 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Wednesday                1445 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Thursday                 1115 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
+Friday                   1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 Saturday                 710 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-Sunday                   1286 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Sunday                   1290 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 ```
 
 
-**I Work with TypeScript Mostly** 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               46 repos            ████████████░░░░░░░░░░░░░   48.42 % 
@@ -185,12 +206,13 @@ CSS                      2 repos             █░░░░░░░░░░�
 ```
 
 
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:48:48 UTC
+ Last Updated on 17/08/2026 01:46:46 UTC
 <!--END_SECTION:waka-->
 
 <br/>
