@@ -74,7 +74,7 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <tr>
 <td width="50%" valign="top">
 
-🎫 **[hackathon issue management platform](https://sihsupport.vercel.app)** - built for epoch 4.0 · qr-based issue submission · live dashboards · role-based auth · **278+ teams, 1600+ participants**
+🎫 **[hackathon issue management platform](https://sihsupport.vercel.app)** - qr-based issue submission · live dashboards · role-based auth · **278+ teams, 1600+ participants**
 
 <sub>`Next.js` · `Supabase` · `JWT`</sub>
 
