@@ -140,6 +140,10 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 </tr>
 </table>
 
+## <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none'%3E%3Cpath d='M4 18.5H20' stroke='%23f78166' stroke-width='1.8' stroke-linecap='round'/%3E%3Cpath d='M7 15.5V10.2' stroke='%23f78166' stroke-width='1.8' stroke-linecap='round'/%3E%3Cpath d='M12 15.5V6.5' stroke='%23f78166' stroke-width='1.8' stroke-linecap='round'/%3E%3Cpath d='M17 15.5V8.8' stroke='%23f78166' stroke-width='1.8' stroke-linecap='round'/%3E%3Cpath d='M4 5.5L8 9L12 5L17 10L20 6.5' stroke='%23f78166' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E" width="20" height="20" align="center" style="vertical-align:middle; margin-right:8px;" /> GitHub Metrics
+
+<img src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/github-metrics.svg">
+
 <br/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" width="22" align="center"/>&nbsp; github</h3>
