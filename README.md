@@ -150,11 +150,7 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lechakrawarthy&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lechakrawarthy&bg_color=0d1117&color=f78166&line=f78166&point=ffffff&area=true&hide_border=true&height=220" width="85%"/>
+<img src="https://streak-stats.demolab.com/?user=lechakrawarthy&v=2&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
 
 <br/>
 
