@@ -1,0 +1,11 @@
+{
+  "name": "profile-cards",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node letter.mjs"
+  },
+  "dependencies": {
+    "subset-font": "^2.4.0"
+  }
+}
