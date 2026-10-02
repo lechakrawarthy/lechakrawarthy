@@ -1,7 +1,7 @@
 <svg viewBox="0 0 900 30" height="30" width="900" xmlns="http://www.w3.org/2000/svg">
 
   <!-- ground line -->
-  <rect x="0" y="26" width="900" height="1" fill="white" opacity="0.18"/>
+  <rect x="0" y="26" width="900" height="1" fill="#8b949e" opacity="0.35"/>
 
   <!--
     Cactus 1: begin=0s,  930px in 6s = 155px/s, reaches x=130 at t≈5.0s → keyTime 0.833
@@ -13,7 +13,7 @@
   -->
 
   <!-- dino: static x=50, jump handled additively -->
-  <g transform="translate(50,0)" fill="white">
+  <g transform="translate(50,0)" fill="#8b949e">
     <rect x="0"  y="16" width="5"  height="4"/>
     <rect x="4"  y="10" width="14" height="12"/>
     <rect x="10" y="7"  width="4"  height="5"/>
@@ -45,7 +45,7 @@
   </g>
 
   <!-- cactus 1: starts immediately -->
-  <g fill="white" opacity="0.6">
+  <g fill="#8b949e" opacity="0.8">
     <rect x="905" y="13" width="4" height="14"/>
     <rect x="901" y="17" width="4" height="5"/>
     <rect x="909" y="16" width="4" height="5"/>
@@ -54,7 +54,7 @@
   </g>
 
   <!-- cactus 2: starts 3s later, creating alternating arrivals -->
-  <g fill="white" opacity="0.6">
+  <g fill="#8b949e" opacity="0.8">
     <rect x="905" y="16" width="3" height="11"/>
     <rect x="902" y="18" width="3" height="5"/>
     <rect x="908" y="19" width="3" height="4"/>

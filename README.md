@@ -1,4 +1,4 @@
-<img src="./Assets/banner.png" width="100%"/>
+<img src="./Assets/banner.png" width="100%" alt="banner"/>
 
 <div align="center">
 
@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-<h2>hey, i'm chakrawarthy &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center"/></h2>
+<h2>hey, i'm chakrawarthy &nbsp;<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35" align="center" alt=""/></h2>
 
 <!--
 Design & layout by @lechakrawarthy
@@ -14,7 +14,7 @@ Reference and inspiration welcome. Direct replication without credit is not.
 Licensed under CC BY-NC-SA 4.0 — see LICENSE
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=F78166&center=true&vCenter=true&width=600&lines=founder+%C2%B7+engineer+%C2%B7+community+builder;building+solar-powered+urban+india+%E2%9A%A1;shipping+real+software%2C+not+portfolios;hyderabad+%C3%97+bengaluru)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=F78166&center=true&vCenter=true&width=600&lines=founder+%C2%B7+engineer+%C2%B7+community+builder;building+solar-powered+urban+india+%E2%9A%A1;shipping+real+software%2C+not+portfolios;hyderabad+%C3%97+bengaluru)](https://lechakrawarthy.tech)
 
 <br/>
 
@@ -25,47 +25,47 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 </div>
 
-<img width="100%" src="./Assets/divider-dino.svg"/>
+<img width="100%" src="./Assets/divider-dino.svg" alt=""/>
 
 <br/>
 
 > **most of what i build runs on a server. some of it runs on a street.**
 >
-> i'm a full-stack engineer and founder who ships real software - a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
+> i'm a full-stack engineer and founder who ships real software — a published cli tool with real users, platforms that ran for thousands of people, and infrastructure for solar-powered urban india. i don't just build for portfolios.
 
-<img width="100%" src="./Assets/divider-orange.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg" alt=""/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; now</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center" alt=""/>&nbsp; now</h3>
 
-- ⚡ **founder, [solarnexa](https://solarnexa.org)** - building solar-powered urban infrastructure for india · cleantech · est. 2023
+- ⚡ **founder, [solarnexa](https://solarnexa.org)** — building solar-powered urban infrastructure for india · cleantech · est. 2023
 
 <br/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="22" align="center"/>&nbsp; previously</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Airplane.png" width="22" align="center" alt=""/>&nbsp; previously</h3>
 
 - 🧠 **ai fellow, [admesh](https://admesh.co)** — built adplex, an ai-native ad decision engine · prompt architecture · product systems · remote
 - 💼 **swe intern, 99 yards** — new york (remote) · fashion-tech platform · design sprints · mobile prototypes
 - 👥 **president, [github community gitam](https://github.com/GitHub-Community-GITAM)** — 28-member team · epoch tech fest · 5000+ attendees · best technical club award
 
-<img width="100%" src="./Assets/divider-orange.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg" alt=""/>
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" align="center"/>&nbsp; shipped</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gem%20Stone.png" width="22" align="center" alt=""/>&nbsp; shipped</h3>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-📦 **[vazr](https://github.com/lechakrawarthy/vazr)** — cli disk cleanup · [`@lechakrawarthy/vazr`](https://www.npmjs.com/package/@lechakrawarthy/vazr)
+📦 **[vazr](https://github.com/lechakrawarthy/vazr)** — terminal ui for finding and wiping disk bloat · [site](https://vazr.vercel.app) · [`@lechakrawarthy/vazr`](https://www.npmjs.com/package/@lechakrawarthy/vazr)
 
-<a href="https://www.npmjs.com/package/@lechakrawarthy/vazr"><img src="https://img.shields.io/npm/v/@lechakrawarthy/vazr?style=flat-square&color=f78166&logo=npm&logoColor=white&label=npm"/></a>
-<img src="https://img.shields.io/npm/dt/@lechakrawarthy/vazr?style=flat-square&color=2d333b&label=downloads"/>
+<a href="https://www.npmjs.com/package/@lechakrawarthy/vazr"><img src="https://img.shields.io/npm/v/@lechakrawarthy/vazr?style=flat-square&color=f78166&logo=npm&logoColor=white&label=npm" alt="npm version"/></a>
+<img src="https://img.shields.io/npm/dt/@lechakrawarthy/vazr?style=flat-square&color=2d333b&label=downloads" alt="npm downloads"/>
 
 <sub>`Node.js` · `CLI`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-🛡️ **ddos detection** — lstm classifier · **99.73% acc** · mcc 0.9958
+🛡️ **[ddos detection](https://github.com/lechakrawarthy/DDOS_LSTM)** — lstm classifier · **99.73% acc** · mcc 0.9958
 
 <sub>`TensorFlow` · `Deep Learning`</sub>
 
@@ -74,14 +74,14 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <tr>
 <td width="50%" valign="top">
 
-🎫 **[hackathon issue management platform](https://sihsupport.vercel.app)** - qr-based issue submission · live dashboards · role-based auth · **278+ teams, 1600+ participants**
+🎫 **[hackathon issue management platform](https://sihsupport.vercel.app)** — qr-based issue submission · live dashboards · role-based auth · **278+ teams, 1600+ participants**
 
 <sub>`Next.js` · `Supabase` · `JWT`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-💰 **[twinance](https://twinance.vercel.app)** - personal finance platform · analytics dashboards · realtime sync · jwt rest apis
+💰 **[twinance](https://twinance.vercel.app)** — personal finance platform · analytics dashboards · realtime sync · jwt rest apis
 
 <sub>`React` · `Node.js` · `PostgreSQL`</sub>
 
@@ -90,14 +90,14 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 <tr>
 <td width="50%" valign="top">
 
-🔗 **coinnect** - gamified blockchain lms · real-time crypto simulator · green coin rewards
+🔗 **coinnect** — gamified blockchain lms · real-time crypto simulator · green coin rewards
 
 <sub>`Next.js` · `MongoDB` · `NextAuth.js`</sub>
 
 </td>
 <td width="50%" valign="top">
 
-📊 **traffic severity** - ml pipeline on uk stats19 · ieee → icac2n
+📊 **[traffic severity](https://github.com/lechakrawarthy/Traffic_ML)** — ml pipeline on uk stats19 · ieee → icac2n
 
 <sub>`Python` · `scikit-learn`</sub>
 
@@ -105,54 +105,56 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 </tr>
 </table>
 
-<img width="100%" src="./Assets/divider-orange.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg" alt=""/>
 
-<h3>🏆&nbsp; achievements</h3>
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="22" align="center" alt=""/>&nbsp; achievements</h3>
 
-- 🔥 **cognizant technoverse 2026** - top 1,000 nationally · 4,000+ teams · 400+ colleges · only team from gitam shortlisted
-- 💎 **smart india hackathon 2025** - top 35 team · *mula* blockchain project
-- ⭐ **best technical club award** - github community gitam
+- 🔥 **cognizant technoverse 2026** — top 1,000 nationally · 4,000+ teams · 400+ colleges · only team from gitam shortlisted
+- 💎 **smart india hackathon 2025** — top 35 team · *mula* blockchain project
+- ⭐ **best technical club award** — github community gitam
 
-<img width="100%" src="./Assets/divider-orange.svg"/>
+<img width="100%" src="./Assets/divider-orange.svg" alt=""/>
 
-<h3><img src="./Assets/skills.gif" width="22" align="center"/>&nbsp; stack</h3>
+<h3><img src="./Assets/skills.gif" width="22" align="center" alt=""/>&nbsp; stack</h3>
 
 <table>
 <tr>
 <td align="right" width="80"><sub><b>frontend</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=10"/></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&perline=10" alt="react, next.js, typescript, javascript, tailwind, html, css"/></td>
 </tr>
 <tr>
 <td align="right"><sub><b>backend</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,postgresql,mongodb,supabase,prisma,redis&perline=10"/></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,postgresql,mongodb,supabase,prisma,redis&perline=10" alt="node.js, express, fastapi, graphql, postgresql, mongodb, supabase, prisma, redis"/></td>
 </tr>
 <tr>
 <td align="right"><sub><b>ai / ml</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,pytorch&perline=10"/></td>
+<td><img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,pytorch&perline=10" alt="python, tensorflow, scikit-learn, opencv, pytorch"/></td>
 </tr>
 <tr>
 <td align="right"><sub><b>infra</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux&perline=10"/></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,linux&perline=10" alt="docker, kubernetes, aws, gcp, linux"/></td>
 </tr>
 <tr>
 <td align="right"><sub><b>tools</b></sub></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10"/></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&perline=10" alt="git, github, vs code, postman, figma"/></td>
 </tr>
-></table>
+</table>
 
-## <img src="./Assets/cat.gif" width="22" align="center"/> GitHub Metrics
+<img width="100%" src="./Assets/divider-orange.svg" alt=""/>
 
-<img src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/github-metrics.svg">
-
-<br/>
-
-<h3>github</h3>
+<h3><img src="./Assets/cat.gif" width="22" align="center" alt=""/>&nbsp; github</h3>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=lechakrawarthy&v=2&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
+<img src="https://raw.githubusercontent.com/lechakrawarthy/lechakrawarthy/main/github-metrics.svg" alt="github metrics"/>
 
-<br/>
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lechakrawarthy&v=2&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=lechakrawarthy&v=2&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=1f2328&background=ffffff&dates=59636e&sideLabels=59636e&sideNums=1f2328&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
+  <img alt="github streak" src="https://streak-stats.demolab.com/?user=lechakrawarthy&v=2&hide_border=true&ring=f78166&fire=f78166&currStreakLabel=f78166&currStreakNum=ffffff&background=0d1117&dates=8b949e&sideLabels=8b949e&sideNums=ffffff&stroke=f78166&card_width=550&date_format=j%20M%5B%20Y%5D"/>
+</picture>
 
 <br/><br/>
 
@@ -166,11 +168,13 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 <br/>
 
-<img width="100%" src="./Assets/divider-orange.svg"/>
+<img width="100%" src="./Assets/divider-dino-end.svg" alt=""/>
 
 <br/>
 
-> **if you've read this far - let's build something that matters.**
+> **if you've read this far — let's build something that matters.**
+>
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="18" align="center" alt=""/>&nbsp; [say hi on linkedin](https://linkedin.com/in/lechakrawarthy) · [drop an email](mailto:chakravarthi1597@gmail.com) · [see the portfolio](https://lechakrawarthy.tech)
 
 <br/>
 
@@ -184,4 +188,4 @@ Licensed under CC BY-NC-SA 4.0 — see LICENSE
 
 <br/>
 
-<img src="./Assets/banner-flip.png" width="100%"/>
+<img src="./Assets/banner-flip.png" width="100%" alt=""/>
