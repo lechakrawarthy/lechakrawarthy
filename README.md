@@ -1,10 +1,10 @@
 <!-- Words, art and layout by @lechakrawarthy · CC BY-NC-SA 4.0, see LICENSE -->
 
-<a href="https://lechakrawarthy.tech"><img src="./assets/header.svg" width="100%" alt="Chakrawarthy. Most of what I build runs on a server. Some of it runs on a street."/></a>
+<a href="https://lechakrawarthy.tech"><img src="./assets/header.svg" width="100%" alt="Chakrawarthy. Most of what I build runs on a server. Some of it runs in your terminal."/></a>
 
 <div align="center">
 
-<a href="https://lechakrawarthy.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=F78166&center=true&vCenter=true&width=600&lines=engineer+%C2%B7+founder+%C2%B7+cs+%28ai+%26+ml%29%2C+class+of+%2727;1%2C700%2B+installs+on+npm+and+counting;building+solar+trees+for+indian+streets+%E2%9A%A1;shipping+to+real+users%2C+not+portfolios" alt="engineer · founder · cs (ai & ml), class of '27"/></a>
+<a href="https://lechakrawarthy.tech"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=F78166&center=true&vCenter=true&width=600&lines=full-stack+%C2%B7+ai+%26+ml+%C2%B7+cs+class+of+%2727;1%2C700%2B+installs+on+npm+and+counting;from+the+api+to+the+esp32+%E2%9A%A1;shipping+to+real+users%2C+not+portfolios" alt="full-stack · ai &amp; ml · cs class of '27"/></a>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://lechakrawarthy.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lechakrawarthy)
@@ -93,15 +93,7 @@ Classifies seven kinds of attack traffic from network flows, with live packet ca
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-☀️ **[solarnexa](https://solarnexa.org)** · founder<br/>
-Solar trees with EV charging, for city blocks where rooftop solar doesn't fit. Founding team of 9 at its peak.
-
-<sub>`cleantech` · `since 2023`</sub>
-
-</td>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 💊 **veridose** · capstone<br/>
 A pill dispenser that has to be right every time, from the firmware to the phone in a caregiver's hand.
