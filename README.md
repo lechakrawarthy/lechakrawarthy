@@ -1,6 +1,6 @@
 <!-- Words, art and layout by @lechakrawarthy · CC BY-NC-SA 4.0, see LICENSE -->
 
-<a href="https://lechakrawarthy.tech"><img src="./Assets/header.svg" width="100%" alt="Chakrawarthy. Most of what I build runs on a server. Some of it runs on a street."/></a>
+<a href="https://lechakrawarthy.tech"><img src="./assets/header.svg" width="100%" alt="Chakrawarthy. Most of what I build runs on a server. Some of it runs on a street."/></a>
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 </div>
 
-<img width="100%" src="./Assets/divider-orange.svg"/>
+<img width="100%" src="./assets/divider-orange.svg"/>
 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="22" align="center"/>&nbsp; try this first</h3>
 
@@ -152,7 +152,7 @@ A pill dispenser that has to be right every time, from the firmware to the phone
 
 </div>
 
-<img width="100%" src="./Assets/divider-orange.svg"/>
+<img width="100%" src="./assets/divider-orange.svg"/>
 
 <div align="center">
 
@@ -162,4 +162,4 @@ A pill dispenser that has to be right every time, from the firmware to the phone
 
 </div>
 
-<img src="./Assets/footer.svg" width="100%" alt=""/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
