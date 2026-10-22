@@ -1,23 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="A circuit trace with data pulses">
-  <defs>
-    <path id="bus" d="M0 30h1200"/>
-  </defs>
-  <g fill="none" stroke="#30363d" stroke-width="2">
-    <path d="M0 30h1200"/>
-    <path d="M150 30v-14h60M330 30v14h70M520 30v-14h40M700 30v14h90M880 30v-14h50M1040 30v14h60"/>
-  </g>
-  <g fill="#0d1117" stroke="#484f58" stroke-width="2">
-    <circle cx="150" cy="30" r="4"/><circle cx="210" cy="16" r="3"/>
-    <circle cx="330" cy="30" r="4"/><circle cx="400" cy="44" r="3"/>
-    <circle cx="520" cy="30" r="4"/><circle cx="560" cy="16" r="3"/>
-    <circle cx="700" cy="30" r="4"/><circle cx="790" cy="44" r="3"/>
-    <circle cx="880" cy="30" r="4"/><circle cx="930" cy="16" r="3"/>
-    <circle cx="1040" cy="30" r="4"/><circle cx="1100" cy="44" r="3"/>
-  </g>
-  <circle r="4" fill="#f78166">
-    <animateMotion dur="6s" repeatCount="indefinite"><mpath xlink:href="#bus"/></animateMotion>
-  </circle>
-  <circle r="3" fill="#f78166" opacity=".6">
-    <animateMotion dur="6s" begin="-3s" repeatCount="indefinite"><mpath xlink:href="#bus"/></animateMotion>
-  </circle>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-labelledby="t"><title id="t"></title><style>
+:root{--bg:#0d1117;--card:#161b22;--chip:#21262d;--line:#30363d;--line2:#21262d;--fg:#e6edf3;--mute:#8b949e;--dim:#6e7681;--acc:#f78166;--ok:#3fb950}
+@media (prefers-color-scheme: light){:root{--bg:#ffffff;--card:#f6f8fa;--chip:#eaeef2;--line:#d0d7de;--line2:#e6eaef;--fg:#1f2328;--mute:#59636e;--dim:#818b98;--acc:#cf4f2a;--ok:#1a7f37}}
+.bg{fill:var(--bg)}.card{fill:var(--card);stroke:var(--line)}.chip{fill:var(--chip)}.ln{stroke:var(--line);fill:none}
+.fg{fill:var(--fg)}.mute{fill:var(--mute)}.dim{fill:var(--dim)}.acc{fill:var(--acc)}.ok{fill:var(--ok)}
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+</style>
+<defs><path id="bus" d="M0 30h1200"/></defs><path d="M0 30h1200M150 30v-14h60M330 30v14h70M520 30v-14h40M700 30v14h90M880 30v-14h50M1040 30v14h60" class="ln" stroke-width="2"/><g style="fill:var(--bg);stroke:var(--dim)" stroke-width="2"><circle cx="150" cy="30" r="4"/><circle cx="210" cy="16" r="3"/><circle cx="330" cy="30" r="4"/><circle cx="400" cy="44" r="3"/><circle cx="520" cy="30" r="4"/><circle cx="560" cy="16" r="3"/><circle cx="700" cy="30" r="4"/><circle cx="790" cy="44" r="3"/><circle cx="880" cy="30" r="4"/><circle cx="930" cy="16" r="3"/><circle cx="1040" cy="30" r="4"/><circle cx="1100" cy="44" r="3"/></g><circle r="4" class="acc"><animateMotion dur="6s" repeatCount="indefinite"><mpath xlink:href="#bus"/></animateMotion></circle><circle r="3" class="acc" opacity=".6"><animateMotion dur="6s" begin="-3s" repeatCount="indefinite"><mpath xlink:href="#bus"/></animateMotion></circle>
 </svg>
