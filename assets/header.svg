@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t">
+  <title id="t">Chakrawarthy. Most of what I build runs on a server. Some of it runs on a street.</title>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#21262d"/>
+    </pattern>
+    <radialGradient id="sun">
+      <stop offset="0" stop-color="#ffb86b" stop-opacity=".55"/>
+      <stop offset="1" stop-color="#f78166" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="pv" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#388bfd"/>
+      <stop offset="1" stop-color="#1a4f9c"/>
+    </linearGradient>
+    <symbol id="panel" viewBox="0 0 60 26" width="60" height="26">
+      <rect x="1" y="1" width="58" height="24" rx="3" fill="url(#pv)" stroke="#79c0ff" stroke-width="1.5"/>
+      <path d="M20 1v24M40 1v24M1 13h58" stroke="#0d1117" stroke-opacity=".45" stroke-width="1.5"/>
+    </symbol>
+    <clipPath id="card"><rect width="1200" height="320" rx="18"/></clipPath>
+  </defs>
+  <style>
+    .name{font:700 60px 'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif;fill:#e6edf3;letter-spacing:-1px}
+    .tag{font:400 21px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#8b949e}
+    .hi{fill:#f78166}
+    .sub{font:600 13px ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;fill:#f78166;letter-spacing:3px}
+    .led{animation:blink 1.8s infinite}
+    .d1{animation-delay:.4s}.d2{animation-delay:.9s}.d3{animation-delay:1.3s}
+    @keyframes blink{0%,55%{opacity:1}65%,85%{opacity:.15}100%{opacity:1}}
+    .glow{animation:pulse 5s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+    .bolt{animation:charge 1.4s ease-in-out infinite}
+    @keyframes charge{0%,100%{opacity:.25}50%{opacity:1}}
+    .cursor{animation:cur 1.1s steps(1) infinite}
+    @keyframes cur{50%{opacity:0}}
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="320" fill="#0d1117"/>
+    <rect width="1200" height="320" fill="url(#dots)"/>
+
+    <!-- sun -->
+    <circle class="glow" cx="1080" cy="64" r="150" fill="url(#sun)"/>
+    <circle cx="1080" cy="64" r="20" fill="#ffb86b"/>
+
+    <!-- street -->
+    <rect y="272" width="1200" height="48" fill="#161b22"/>
+    <path d="M0 272h1200" stroke="#30363d" stroke-width="2"/>
+    <path d="M0 300h1200" stroke="#30363d" stroke-width="3" stroke-dasharray="28 22"/>
+
+    <!-- server rack -->
+    <rect x="62" y="96" width="132" height="176" rx="8" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+    <g fill="#0d1117" stroke="#30363d" stroke-width="1.5">
+      <rect x="74" y="108" width="108" height="24" rx="4"/>
+      <rect x="74" y="140" width="108" height="24" rx="4"/>
+      <rect x="74" y="172" width="108" height="24" rx="4"/>
+      <rect x="74" y="204" width="108" height="24" rx="4"/>
+      <rect x="74" y="236" width="108" height="24" rx="4"/>
+    </g>
+    <g stroke="#30363d" stroke-width="2" stroke-linecap="round">
+      <path d="M84 120h40M84 152h40M84 184h40M84 216h40M84 248h40"/>
+    </g>
+    <g>
+      <circle class="led" cx="158" cy="120" r="3.5" fill="#3fb950"/>
+      <circle class="led d2" cx="170" cy="120" r="3.5" fill="#f78166"/>
+      <circle class="led d1" cx="158" cy="152" r="3.5" fill="#3fb950"/>
+      <circle class="led d3" cx="170" cy="152" r="3.5" fill="#3fb950"/>
+      <circle class="led d2" cx="158" cy="184" r="3.5" fill="#3fb950"/>
+      <circle class="led" cx="170" cy="184" r="3.5" fill="#f78166"/>
+      <circle class="led d3" cx="158" cy="216" r="3.5" fill="#3fb950"/>
+      <circle class="led d1" cx="170" cy="216" r="3.5" fill="#3fb950"/>
+      <circle class="led d1" cx="158" cy="248" r="3.5" fill="#3fb950"/>
+      <circle class="led d2" cx="170" cy="248" r="3.5" fill="#f78166"/>
+    </g>
+
+    <!-- the wire: server to street -->
+    <path id="wire" d="M128 272v12h832v-12" fill="none" stroke="#f78166" stroke-opacity=".3" stroke-width="2" stroke-dasharray="2 7"/>
+    <circle r="4.5" fill="#f78166">
+      <animateMotion dur="4.5s" repeatCount="indefinite"><mpath xlink:href="#wire"/></animateMotion>
+    </circle>
+
+    <!-- words -->
+    <text x="236" y="140" class="name">Chakrawarthy</text>
+    <text x="240" y="186" class="tag">Most of what I build runs on a <tspan class="hi">server</tspan>.</text>
+    <text x="240" y="218" class="tag">Some of it runs on a <tspan class="hi">street</tspan>.<tspan class="hi cursor"> _</tspan></text>
+    <text x="240" y="256" class="sub">ENGINEER · FOUNDER · HYDERABAD × BENGALURU</text>
+
+    <!-- solar tree -->
+    <g stroke="#8b949e" stroke-width="5" stroke-linecap="round" fill="none">
+      <path d="M960 272V112"/>
+      <path d="M960 214l-44-20M960 196l46-22M960 158l-38-22M960 146l40-24"/>
+    </g>
+    <use xlink:href="#panel" x="0" y="0" transform="translate(878 178) rotate(-14 30 13)"/>
+    <use xlink:href="#panel" x="0" y="0" transform="translate(982 158) rotate(14 30 13)"/>
+    <use xlink:href="#panel" x="0" y="0" transform="translate(890 120) rotate(-14 30 13)"/>
+    <use xlink:href="#panel" x="0" y="0" transform="translate(976 106) rotate(14 30 13)"/>
+    <use xlink:href="#panel" x="0" y="0" transform="translate(930 86)"/>
+
+    <!-- charger + car -->
+    <rect x="1004" y="230" width="16" height="42" rx="3" fill="#21262d" stroke="#30363d" stroke-width="1.5"/>
+    <path class="bolt" d="M1014 236l-5 9h4l-3 8 7-11h-4l3-6z" fill="#f78166"/>
+    <path d="M1012 258c6 10 14 8 22 2" stroke="#f78166" stroke-width="2" fill="none"/>
+    <path d="M1032 268l6-14q5-8 16-8h38q12 0 20 8l12 6q8 2 8 8v4h-100z" fill="#30363d" stroke="#484f58" stroke-width="1.5"/>
+    <path d="M1050 256l4-6h18v6zM1078 250h14q8 0 13 6h-27z" fill="#0d1117" opacity=".8"/>
+    <circle cx="1056" cy="272" r="8" fill="#0d1117" stroke="#8b949e" stroke-width="3"/>
+    <circle cx="1112" cy="272" r="8" fill="#0d1117" stroke="#8b949e" stroke-width="3"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="318" rx="17" fill="none" stroke="#30363d" stroke-width="2"/>
+</svg>
