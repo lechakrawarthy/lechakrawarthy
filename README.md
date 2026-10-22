@@ -46,6 +46,8 @@ npx @lechakrawarthy/vazr@latest
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://sihsupport.vercel.app"><img src="./assets/shot-desk.jpg" width="100%" alt="desk live site"/></a>
+
 🎫 **[hackathon issue desk](https://sihsupport.vercel.app)**<br/>
 QR issue intake and role-based triage for a live hackathon. No second take.
 
@@ -55,6 +57,8 @@ QR issue intake and role-based triage for a live hackathon. No second take.
 
 </td>
 <td width="50%" valign="top">
+
+<a href="https://twinance.vercel.app"><img src="./assets/shot-twinance.jpg" width="100%" alt="twinance live site"/></a>
 
 💰 **[twinance](https://twinance.vercel.app)**<br/>
 Personal finance with an AI co-pilot that reads your last 90 days of transactions before it answers.
