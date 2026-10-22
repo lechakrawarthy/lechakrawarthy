@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 131 40" width="131" height="40" role="img" aria-labelledby="t"><title id="t">linkedin</title><style>
+:root{--bg:#0d1117;--card:#161b22;--chip:#21262d;--line:#30363d;--line2:#21262d;--fg:#e6edf3;--mute:#8b949e;--dim:#6e7681;--acc:#f78166;--ok:#3fb950}
+@media (prefers-color-scheme: light){:root{--bg:#ffffff;--card:#f6f8fa;--chip:#eaeef2;--line:#d0d7de;--line2:#e6eaef;--fg:#1f2328;--mute:#59636e;--dim:#818b98;--acc:#cf4f2a;--ok:#1a7f37}}
+.bg{fill:var(--bg)}.card{fill:var(--card);stroke:var(--line)}.chip{fill:var(--chip)}.ln{stroke:var(--line);fill:none}
+.fg{fill:var(--fg)}.mute{fill:var(--mute)}.dim{fill:var(--dim)}.acc{fill:var(--acc)}.ok{fill:var(--ok)}
+.sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace}
+</style>
+<rect x="1" y="1" width="129" height="38" rx="9" class="card" stroke-width="1.5"/><text x="22" y="25" class="mono fg" font-size="14">linkedin</text><text x="113" y="25" text-anchor="end" class="mono acc" font-size="14">↗</text>
+</svg>
