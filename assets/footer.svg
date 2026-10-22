@@ -1,31 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="A street of solar trees with a car driving past">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1200 60" width="1200" height="60" role="img" aria-label="A circuit trace with data pulses">
   <defs>
-    <symbol id="tree" viewBox="0 0 60 70" width="60" height="70">
-      <g stroke="#484f58" stroke-width="3" stroke-linecap="round" fill="none">
-        <path d="M30 70V20M30 48l-16-8M30 38l16-8"/>
-      </g>
-      <g fill="#1f6feb" stroke="#58a6ff" stroke-width="1">
-        <rect x="2" y="32" width="22" height="9" rx="2" transform="rotate(-12 13 36)"/>
-        <rect x="36" y="22" width="22" height="9" rx="2" transform="rotate(12 47 26)"/>
-        <rect x="19" y="10" width="22" height="9" rx="2"/>
-      </g>
-    </symbol>
-    <clipPath id="c"><rect width="1200" height="90"/></clipPath>
+    <path id="bus" d="M0 30h1200"/>
   </defs>
-  <g clip-path="url(#c)">
-    <rect y="62" width="1200" height="28" fill="#161b22"/>
-    <path d="M0 62h1200" stroke="#30363d" stroke-width="2"/>
-    <path d="M0 78h1200" stroke="#30363d" stroke-width="2" stroke-dasharray="24 20"/>
-    <use xlink:href="#tree" x="90" y="-8"/>
-    <use xlink:href="#tree" x="390" y="-8"/>
-    <use xlink:href="#tree" x="690" y="-8"/>
-    <use xlink:href="#tree" x="990" y="-8"/>
-    <g>
-      <animateTransform attributeName="transform" type="translate" from="-140 0" to="1340 0" dur="14s" repeatCount="indefinite"/>
-      <path d="M0 64l5-11q4-6 13-6h30q10 0 16 6l10 5q6 2 6 6v3h-80z" fill="#f78166"/>
-      <path d="M16 54l3-5h14v5zM38 49h11q6 0 10 5h-21z" fill="#0d1117" opacity=".7"/>
-      <circle cx="18" cy="66" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2.5"/>
-      <circle cx="64" cy="66" r="6" fill="#0d1117" stroke="#8b949e" stroke-width="2.5"/>
-    </g>
+  <g fill="none" stroke="#30363d" stroke-width="2">
+    <path d="M0 30h1200"/>
+    <path d="M150 30v-14h60M330 30v14h70M520 30v-14h40M700 30v14h90M880 30v-14h50M1040 30v14h60"/>
   </g>
+  <g fill="#0d1117" stroke="#484f58" stroke-width="2">
+    <circle cx="150" cy="30" r="4"/><circle cx="210" cy="16" r="3"/>
+    <circle cx="330" cy="30" r="4"/><circle cx="400" cy="44" r="3"/>
+    <circle cx="520" cy="30" r="4"/><circle cx="560" cy="16" r="3"/>
+    <circle cx="700" cy="30" r="4"/><circle cx="790" cy="44" r="3"/>
+    <circle cx="880" cy="30" r="4"/><circle cx="930" cy="16" r="3"/>
+    <circle cx="1040" cy="30" r="4"/><circle cx="1100" cy="44" r="3"/>
+  </g>
+  <circle r="4" fill="#f78166">
+    <animateMotion dur="6s" repeatCount="indefinite"><mpath xlink:href="#bus"/></animateMotion>
+  </circle>
+  <circle r="3" fill="#f78166" opacity=".6">
+    <animateMotion dur="6s" begin="-3s" repeatCount="indefinite"><mpath xlink:href="#bus"/></animateMotion>
+  </circle>
 </svg>
