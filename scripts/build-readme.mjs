@@ -51,6 +51,16 @@ const span = ({ len, end }) => len
 const npm = await (await fetch(`https://api.npmjs.org/downloads/point/2015-01-01:${today}/@lechakrawarthy/vazr`)).json();
 const floor100 = (n) => (Math.floor(n / 100) * 100).toLocaleString("en-US") + "+";
 const n = (x) => x.toLocaleString("en-US");
+const langs = {};
+for (let after = null, more = true; more;) {
+  const page = gql(`query{user(login:"${USER}"){repositories(ownerAffiliations:OWNER,isFork:false,first:100${after ? `,after:"${after}"` : ""}){pageInfo{hasNextPage endCursor} nodes{primaryLanguage{name}}}}}`).repositories;
+  for (const repo of page.nodes) if (repo.primaryLanguage) langs[repo.primaryLanguage.name] = (langs[repo.primaryLanguage.name] ?? 0) + 1;
+  ({ hasNextPage: more, endCursor: after } = page.pageInfo);
+}
+const langTotal = Object.values(langs).reduce((a, b) => a + b, 0);
+const sorted = Object.entries(langs).sort((a, b) => b[1] - a[1]);
+const LANGS = [...sorted.slice(0, 4), ["Other", sorted.slice(4).reduce((a, [, c]) => a + c, 0)]].filter(([, c]) => c).map(([name, c]) => [name, c / langTotal]);
+const WEEKDAYS = [1, 2, 3, 4, 5, 6, 0].map((wd) => [["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"][wd], history.filter((d) => new Date(d.date + "T00:00:00Z").getUTCDay() === wd).reduce((a, d) => a + d.n, 0)]);
 const GITHUB = [
   [n(sums.commits), "commits"],
   [n(sums.prs), "pull requests"],
@@ -77,7 +87,7 @@ const STATS = [
   [floor100(npm.downloads), "npm installs", "vazr"],
   ["1,600+", "live participants", "Issue Desk"],
   ["2,500+", "students at Epoch 3.0", "GitHub Community"],
-  ["28", "core team led", "GitHub Community GITAM"],
+  ["28", "core team led", "GitHub Community"],
   ["Top 35", "Smart India Hackathon", "2025"],
   ["Top 50", "Smart India Hackathon", "2026"],
   ["Top 1K", "of 4,000+ teams", "Cognizant Technoverse ’26"],
@@ -94,7 +104,7 @@ const STACK = [
 const BEYOND = [
   ["Founder @ SolarNexa", "Building solar trees with EV charging for dense cities."],
   ["President @ GitHub Community", "Led a 28-member core team and ran Epoch 3.0 for 2,500+ students."],
-  ["Ex-SWE Intern @ 99 Yards", "Mar ’25 – Jun ’25, remote."],
+  ["99 Yards, New York", "React and Next.js for a fashion-tech platform, remote."],
 ];
 
 // ---------- type ----------
@@ -197,6 +207,8 @@ const MOTION = `
 .cell{opacity:0;animation:fade .5s ease forwards}
 .scan{animation:scan 9s linear infinite}
 @keyframes scan{from{transform:translateX(-120px)}to{transform:translateX(1120px)}}
+.growy{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:growy 1.1s cubic-bezier(.2,.7,.2,1) forwards}
+@keyframes growy{to{transform:scaleY(1)}}
 @keyframes pulse{0%,100%{opacity:.35}12%,30%{opacity:1}45%{opacity:.35}}
 `;
 
@@ -222,8 +234,8 @@ function header(t, mode) {
   s.raw(`<rect x="${r(width("mono", l2, 15) + 6)}" y="316" width="8" height="15" fill="${t.fg}" class="blink"/>`);
 
   s.raw(`<rect x="${IX - 28}" y="84" width="1" height="250" fill="${t.line}"/>`);
-  s.text(IX, 104, "B.Tech CSE (AI & ML)", "mono", 15, t.fg, { cls: "fade", style: "animation-delay:.3s" });
-  s.text(IX, 129, "GITAM Bengaluru · 2023 – 2027", "mono", 15, t.fg, { cls: "fade", style: "animation-delay:.38s" });
+  s.text(IX, 104, "Full-stack & AI engineer", "mono", 15, t.fg, { cls: "fade", style: "animation-delay:.3s" });
+  s.text(IX, 129, "Building Twinance · shipping vazr", "mono", 15, t.fg, { cls: "fade", style: "animation-delay:.38s" });
   s.raw(`<g class="fade" style="animation-delay:.46s"><path d="M${IX + 6} 170.5c-3.6-4.3-5.5-7.3-5.5-9.6a5.5 5.5 0 0 1 11 0c0 2.3-1.9 5.3-5.5 9.6z" fill="none" stroke="${t.fg}" stroke-width="1.4"/><circle cx="${IX + 6}" cy="160.8" r="1.9" fill="${t.fg}"/></g>`);
   s.text(IX + 22, 167, "Hyderabad × Bengaluru, India", "mono", 15, t.fg, { cls: "fade", style: "animation-delay:.46s" });
   LINKS.forEach(([label], i) => {
@@ -258,7 +270,7 @@ function header(t, mode) {
   });
   const yEnd = HB.a + LINKS.length * HB.link;
   bands.push([{ rect: [0, yEnd, W, H - yEnd] }]);
-  return { scene: s, bands, alt: "Chakrawarthy Sreenivas. Builder. Engineer. Founder. B.Tech CSE (AI & ML), GITAM Bengaluru, 2023 to 2027. Hyderabad and Bengaluru, India." };
+  return { scene: s, bands, alt: "Chakrawarthy Sreenivas. Builder. Engineer. Founder. Full-stack and AI engineer, building Twinance and shipping vazr. Hyderabad and Bengaluru, India." };
 }
 
 // ---------- body: selected work beside stack and beyond code ----------
@@ -348,7 +360,7 @@ function numbers(t, mode) {
 function activity(t, mode) {
   const top = 58, cw = W / 3, hy = top + 26, R = 46, ry = hy + 82, heroH = 196;
   const gy = hy + heroH + 40, step = W / DAYS.length, cell = step - 3.4, gridH = 7 * step;
-  const by = gy + gridH + 36, H = by + 70;
+  const by = gy + gridH + 36, ly = by + 104, H = ly + 150;
   const s = new Scene(W, H, MOTION);
   title(s, t, "05", "GITHUB");
   s.text(W, 34, `SINCE ${fmt(profile.createdAt.slice(0, 10), { month: "short", year: "numeric" }).toUpperCase()}`, "mono", 12, t.mute, { ls: 2.5, anchor: "end" });
@@ -405,6 +417,28 @@ function activity(t, mode) {
     if (i) s.raw(`<rect x="${i * sw}" y="${by}" width="1" height="50" fill="${t.line}"/>`);
     s.text(x, by + 26, v, "display", 26, t.fg, { ls: -0.6, cls: "rise", style: `animation-delay:${0.4 + i * 0.07}s` });
     s.text(x, by + 48, l, "mono", 12.5, t.soft);
+  });
+
+  // top languages by repository, left
+  s.raw(`<rect x="0" y="${ly - 34}" width="${W}" height="1" fill="${t.line}"/>`);
+  label(4, ly, "TOP LANGUAGES", "start");
+  s.text(460, ly, "by repository", "monoI", 12.5, t.mute, { anchor: "end" });
+  LANGS.forEach(([name, share], i) => {
+    const y = ly + 30 + i * 23;
+    s.text(4, y, name, "mono", 13, t.soft);
+    s.raw(`<rect x="140" y="${y - 8}" width="250" height="5" rx="1" fill="${t.line}"/>`);
+    s.raw(`<rect x="140" y="${y - 8}" width="${r(Math.max(3, share * 250))}" height="5" rx="1" fill="${t.fg}" fill-opacity="${r(1 - i * 0.17)}" class="grow" style="animation-delay:${0.3 + i * 0.1}s"/>`);
+    s.text(460, y, `${Math.round(share * 100)}%`, "mono", 13, t.fg, { anchor: "end" });
+  });
+
+  // contributions by weekday, right
+  const wx = 540, ww = W - wx, slot = ww / 7, maxN = Math.max(...WEEKDAYS.map(([, c]) => c)), base = ly + 112;
+  label(wx, ly, "BY WEEKDAY", "start");
+  s.text(W, ly, `most active · ${WEEKDAYS.find(([, c]) => c === maxN)[0].toLowerCase()}`, "monoI", 12.5, t.mute, { anchor: "end" });
+  WEEKDAYS.forEach(([day, c], i) => {
+    const h = Math.max(2, (c / maxN) * 74), x = wx + i * slot + (slot - 26) / 2;
+    s.raw(`<rect x="${r(x)}" y="${r(base - h)}" width="26" height="${r(h)}" rx="2" fill="${t.fg}" fill-opacity="${c === maxN ? 1 : 0.32}" class="growy" style="animation-delay:${0.3 + i * 0.07}s"/>`);
+    s.text(x + 13, base + 20, day, "mono", 11.5, c === maxN ? t.fg : t.mute, { anchor: "middle", ls: 1.5 });
   });
   return { scene: s, bands: [[{ rect: [0, 0, W, H] }]], alt: `GitHub: ${n(total)} total contributions, current streak ${cur.len} days, longest streak ${best.len} days; ${GITHUB.map(([v, l]) => `${v} ${l}`).join(", ")}.` };
 }
