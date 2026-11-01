@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "harfbuzzjs": "1.6.2",
+    "subset-font": "2.9.0"
+  }
+}
