@@ -4,8 +4,6 @@ on:
   schedule:
     - cron: "30 0 * * *" # 06:00 IST, every day
   workflow_dispatch:
-  push:
-    branches: [preview]
 
 permissions:
   contents: write
