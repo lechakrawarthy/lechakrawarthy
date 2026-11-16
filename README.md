@@ -28,7 +28,7 @@
 <br>
 
 <p>
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v1/activity-0-dark.svg"><img src="./assets/v1/activity-0-light.svg" width="100%" align="top" alt="GitHub: 3,764 total contributions, current streak 2 days, longest streak 15 days; 3,362 commits, 242 pull requests, 36 issues, 25 public repos, 7 contributed to, 373 active days."></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/v1/activity-0-dark.svg"><img src="./assets/v1/activity-0-light.svg" width="100%" align="top" alt="GitHub: 3,923 total contributions, current streak 1 days, longest streak 15 days; 3,511 commits, 247 pull requests, 36 issues, 28 public repos, 10 contributed to, 381 active days."></picture>
 </p>
 
 <br>
